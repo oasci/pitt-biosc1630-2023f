@@ -24,7 +24,7 @@ search_and_replace() {
 }
 
 # Specify the directory to start the search
-starting_directory="./book/content/slides/revealjs/"
+starting_directory="./book/slides/revealjs/"
 
 # Call the search_and_replace function
 search_and_replace "$starting_directory" '<script src="lib/' '<script src="../lib/'
