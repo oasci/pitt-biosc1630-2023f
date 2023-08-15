@@ -1,0 +1,14 @@
+**/.DS_Store
+
+book/_build/
+
+# Jupyter Notebook
+**/.ipynb_checkpoints
+
+# IDE settings
+.vscode/
+.idea/
+
+# psi4
+timer.dat
+psi.*.clean
