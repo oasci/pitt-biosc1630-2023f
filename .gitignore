@@ -12,3 +12,8 @@ book/_build/
 # psi4
 timer.dat
 psi.*.clean
+
+# git-secret
+.gitsecret/keys/random_seed
+!*.secret
+book/classes/class-02.md
