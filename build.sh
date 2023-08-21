@@ -7,8 +7,8 @@ jupyter-book clean ./book
 
 # Ensure we have all files possible
 export SECRETS_GPG_ARMOR=0
-git secret hide 2>&1 || true
-git secret reveal -fF 2>&1 || true
+git secret hide -m 2>&1 || true  # Only encrpyt files that have been modified
+git secret reveal -fF 2>&1 || true  # Decrypt all files from the secret to ensure consistency
 
 jupyter-book build ./book
 ./cleanup_printing.py
