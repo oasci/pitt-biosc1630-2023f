@@ -18,6 +18,9 @@
     <a href="https://github.com/aalexmmaldonado/biosc1630-2023-fall/actions/workflows/gh-pages.yml" target="_blank">
         <img src="https://github.com/aalexmmaldonado/biosc1630-2023-fall/actions/workflows/gh-pages.yml/badge.svg?branch=main" alt="GitHub repo size">
     </a>
+    <a href="https://jupyterbook.org/en/stable/intro.html" target="_blank">
+        <img src="book/_static/jb-badge.svg" alt="Jupyter book">
+    </a>
 </p>
 
 Topics in computational biology will be explored using primary literature.
