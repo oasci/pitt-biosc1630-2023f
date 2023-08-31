@@ -32,12 +32,12 @@ def main():
 
                 # For some reason, the redirect url for GitHub sign in has an extra
                 # url element. It starts with the following API request.
-                # We manually remove one.
+                # We manually remove them.
                 # href="https://api.utteranc.es/authorize?redirect_uri=
                 replace_line_in_html(
                     file_path,
                     r"www.aalexmmaldonado.com%2Fbiosc1630-2023-fall%2Fwww.aalexmmaldonado.com%2Fbiosc1630-2023-fall",
-                    r"www.aalexmmaldonado.com%2Fbiosc1630-2023-fall",
+                    r"",
                 )
 
 
