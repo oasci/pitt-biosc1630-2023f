@@ -32,9 +32,16 @@ html:
   use_issues_button: true
   home_page_in_navbar: false
   baseurl: www.aalexmmaldonado.com/biosc1630-2023-fall
+  # This uses https://github.com/executablebooks/sphinx-comments
+  # It has not been maintained for a few years. So we use the fix_utterances.py script
+  # to implement the fixes.
   comments:
     utterances:
       repo: aalexmmaldonado/biosc1630-2023-fall
+      issue_term: pathname
+      theme: preferred-color-scheme
+      label: utterances
+      crossorigin: anonymous
 
 latex:
   latex_documents:
