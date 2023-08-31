@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-./cleanup-lib-refs.sh
-
 jupyter-book clean ./book
 # jupyter-book build ./book --builder linkcheck
 
