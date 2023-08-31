@@ -1,0 +1,55 @@
+# Please see the following link for a configuration reference.
+# https://jupyterbook.org/en/stable/customize/config.html
+
+title: Pitt BIOSC 1630 - 2023 Fall
+author: <a href='https://www.aalexmmaldonado.com' target='_blank'>Alex M. Maldonado</a>
+copyright: "2023"
+logo: ./files/images/biosc-1630-logo.svg
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
+only_build_toc_files: false
+
+sphinx:
+  config:
+    language: en
+    bibtex_bibfiles:
+      - ./refs.bib
+
+execute:
+  execute_notebooks: force
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - dollarmath
+    - linkify
+    - substitution
+    - tasklist
+    - substitution
+
+html:
+  favicon: ./files/images/favicon.ico
+  use_repository_button: true
+  use_issues_button: true
+  home_page_in_navbar: false
+  baseurl: www.aalexmmaldonado.com/biosc1630-2023-fall
+  comments:
+    utterances:
+      repo: aalexmmaldonado/biosc1630-2023-fall
+      issue-term: pathname
+      label: Utterances
+      theme: github-light
+      crossorigin: anonymous
+
+latex:
+  latex_documents:
+    targetname: biosc1630-2023-fall.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/aalexmmaldonado/biosc1630-2023-fall  # Online location of your book
+  path_to_book: book  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)

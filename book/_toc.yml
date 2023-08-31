@@ -1,0 +1,46 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/en/stable/structure/toc.html
+
+format: jb-book
+root: index
+chapters:
+  - file: syllabus
+    title: Syllabus
+  - file: classes/index
+    sections:
+      - file: classes/class-01
+        title: Class 01
+      - file: classes/class-02
+        title: Class 02
+      - file: classes/class-03
+        title: Class 03
+  - file: assignments/index
+    sections:
+      - file: assignments/assignment-01
+        title: Assignment 01
+      - file: assignments/assignment-02
+        title: Assignment 02
+  - file: activities/index
+    sections:
+      - file: activities/01-activity-practice-feedback
+      - file: activities/02-activity-literature-search
+  - file: slides/index
+    sections:
+      - file: slides/class-01
+  - file: resources/index
+    title: Resources
+    sections:
+      - file: resources/journals
+  - file: misc/index
+    title: Miscellaneous
+    sections:
+      - file: misc/getting-to-class
+      - file: misc/drop-in-discussions
+      - file: misc/interfaith-holidays
+      - file: misc/class-time
+      - file: misc/generative-ai-primer
+      - file: misc/easter-egg
+  - file: enigma-elites
+    title: Comp Bio Enigma Elites
+  - file: refs
+    title: References
