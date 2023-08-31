@@ -33,8 +33,7 @@ html:
   home_page_in_navbar: false
   baseurl: www.aalexmmaldonado.com/biosc1630-2023-fall
   comments:
-    utterances:
-      repo: aalexmmaldonado/biosc1630-2023-fall
+    utterances: true
 
 latex:
   latex_documents:
