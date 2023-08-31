@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/repo-size/aalexmmaldonado/biosc1630-2023-fall" alt="GitHub repo size">
     </a>
     <a href="https://github.com/aalexmmaldonado/biosc1630-2023-fall/actions/workflows/gh-pages.yml" target="_blank">
-        <img src="https://github.com/aalexmmaldonado/biosc1630-2023-fall/actions/workflows/gh-pages.yml/badge.svg" alt="GitHub repo size">
+        <img src="https://github.com/aalexmmaldonado/biosc1630-2023-fall/actions/workflows/gh-pages.yml/badge.svg?branch=main" alt="GitHub repo size">
     </a>
 </p>
 
