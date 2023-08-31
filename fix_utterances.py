@@ -16,6 +16,9 @@ def main():
         for file in files:
             if file.endswith(".html"):
                 file_path = os.path.join(root, file)
+
+                # Next two replaces are a manual fix of
+                # https://github.com/executablebooks/sphinx-comments/pull/20
                 replace_line_in_html(
                     file_path,
                     'sections = document.querySelectorAll("div.section");',
@@ -25,6 +28,16 @@ def main():
                     file_path,
                     r"if (sections !== null) {",
                     r"if (sections !== null && sections.length > 0) {",
+                )
+
+                # For some reason, the redirect url for GitHub sign in has an extra
+                # url element. It starts with the following API request.
+                # We manually remove one.
+                # href="https://api.utteranc.es/authorize?redirect_uri=
+                replace_line_in_html(
+                    file_path,
+                    r"www.aalexmmaldonado.com%2Fbiosc1630-2023-fall%2Fwww.aalexmmaldonado.com%2Fbiosc1630-2023-fall",
+                    r"www.aalexmmaldonado.com%2Fbiosc1630-2023-fall",
                 )
 
 
