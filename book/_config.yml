@@ -35,10 +35,6 @@ html:
   comments:
     utterances:
       repo: aalexmmaldonado/biosc1630-2023-fall
-      issue-term: pathname
-      label: Utterances
-      theme: github-light
-      crossorigin: anonymous
 
 latex:
   latex_documents:
