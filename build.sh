@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 jupyter-book clean ./book
 # jupyter-book build ./book --builder linkcheck
 
