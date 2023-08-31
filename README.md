@@ -28,6 +28,11 @@ Students will present research articles orally and complete a series of writing 
 We value accessible, open education that should be available to anyone who seeks it.
 Thus, all materials for this course are released under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC-BY-SA-4.0) license.
 
+## Feedback and reflection
+
+[hypothes.is](https://web.hypothes.is/) is used to provide feedback, ask questions, and reflect on the course materials.
+After making an account, you can annotate using the "Annotation sidebar" on the right-hand side of your screen.
+
 ## Building the website
 
 This website is built using the [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) framework.
