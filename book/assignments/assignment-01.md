@@ -38,7 +38,19 @@ Also, **provide the definition or explanation**.
 
 After every few paragraphs, stop reading and reflect.
 Then, write one sentence to describe your takeaway in your own words.
-You can put these into a **bulleted list with at least eight sentences**.
+You can put these into a **list with at least eight bullet points**.
+
+```{attention}
+I am not requiring you to comprehend everything in the article fully.
+(If you do, great!)
+Your reflection does not need to be scientifically correct---just what you understand.
+For example,
+
+> - The authors are motivating why they choose ___ methods.
+>   They cite other studies that demonstrate that it is appropriate for this system because of ___ reasons.
+
+is a valid reflection.
+```
 
 ### Contextualize
 
