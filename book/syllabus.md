@@ -407,7 +407,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 2
   - September 6
   - [Reading](class:02)
-  - Difficulty paper
+  - [Guided reading](assignment:01)
 * - 3
   - September 13
   - [Methodology](class:03)
