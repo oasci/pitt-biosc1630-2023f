@@ -1,15 +1,3 @@
 # Assignments
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar vehicula erat, quis sagittis ipsum rutrum quis. Ut in venenatis eros. Duis tempor leo sem, eget commodo sapien dictum vitae. Vivamus et sem eget massa convallis euismod. Vivamus vel nisl vel lorem efficitur imperdiet sit amet et dui. Ut sit amet euismod ex, ut tempor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Morbi vitae sapien molestie, viverra diam at, pharetra tortor. Cras convallis faucibus metus non dignissim. Proin fermentum enim orci, eu interdum sem gravida eget. Suspendisse lacinia sit amet nunc a scelerisque. Mauris porta iaculis ligula quis elementum.
-
-## Section
-
-Nullam felis libero, cursus non risus at, luctus posuere enim. Vivamus rhoncus elementum mi, id rhoncus lacus volutpat in. Vestibulum lacinia porta libero, eget fringilla dui scelerisque nec. Quisque posuere arcu in odio rutrum dignissim. Morbi quam orci, auctor id leo in, venenatis vestibulum metus. Nullam est dui, pretium et odio at, imperdiet egestas eros. Curabitur scelerisque suscipit elit, pharetra tempor erat molestie nec. Curabitur lobortis viverra tempor. Donec ipsum diam, fermentum non consequat vitae, ultricies at nulla.
-
-Quisque id pulvinar elit, eget lobortis justo. Sed eu urna ut lacus pellentesque laoreet. Maecenas faucibus imperdiet libero, sed ornare tortor sollicitudin sit amet. Quisque at dapibus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum sed ipsum laoreet, rutrum tortor ut, cursus nibh. Cras vel hendrerit ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer luctus, odio non pharetra tempor, dui ipsum iaculis sapien, in lacinia dui enim eu nunc. Curabitur rhoncus ex sed ante sollicitudin, vitae malesuada dolor ullamcorper. Ut tincidunt risus vel ipsum finibus, luctus iaculis lacus mattis. Integer porttitor eu augue sit amet placerat. Vestibulum sit amet nisl pretium, luctus eros fermentum, gravida lorem. Morbi ac venenatis felis. Donec eget dui sit amet nisi pulvinar euismod eu vitae enim.
-
-### Subsection
-
-Nunc id placerat ligula. Nullam dapibus non ex vel dapibus. Nam semper, ipsum ac iaculis porttitor, ligula arcu pharetra nulla, ultrices bibendum quam nisi ut urna. Nulla posuere nisi ac risus dapibus mollis. In interdum ultrices suscipit. Morbi malesuada, tortor ac dapibus sollicitudin, ex nisi aliquet felis, id tempor justo sapien at dui. Donec pulvinar ac elit sit amet ornare.
-
-Integer ut ex nec enim vehicula mattis sit amet ac libero. Cras cursus dapibus venenatis. Pellentesque imperdiet imperdiet ex, sed semper dolor varius sed. Praesent faucibus at mi vitae bibendum. Maecenas euismod fringilla pretium. Donec pharetra metus in semper euismod. Donec commodo facilisis ante, quis dignissim ex efficitur non. Nulla ex mi, consequat quis rhoncus vitae, mollis ac sem. Maecenas molestie est vitae euismod lobortis. Nulla facilisi. Curabitur facilisis massa id risus sollicitudin, ac ornare felis lacinia.
+- [01 - Guided reading](assignment:01)
