@@ -2,8 +2,8 @@
 # https://jupyterbook.org/en/stable/customize/config.html
 
 title: Pitt BIOSC 1630 - 2023 Fall
-author: <a href='https://www.aalexmmaldonado.com' target='_blank'>Alex M. Maldonado</a>
-copyright: "2023"
+author: <a href='https://www.aalexmmaldonado.com' target='_blank'>Alex M. Maldonado</a> © Copyright 2023
+copyright: ""
 logo: ./files/images/biosc-1630-logo.svg
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 only_build_toc_files: false
