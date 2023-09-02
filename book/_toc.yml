@@ -27,10 +27,12 @@ chapters:
   - file: slides/index
     sections:
       - file: slides/class-01
+      - file: slides/class-02
   - file: resources/index
     title: Resources
     sections:
       - file: resources/journals
+      - file: resources/scheduling
   - file: misc/index
     title: Miscellaneous
     sections:
