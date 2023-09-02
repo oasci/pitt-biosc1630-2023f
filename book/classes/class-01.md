@@ -26,6 +26,8 @@
 
 ## L1 - Meet the instructor
 
+**Duration:** 10 minutes
+
 ### Rationale
 
 Begin the class with an introduction to the instructor.
@@ -51,11 +53,9 @@ This could include the topics the instructor is studying, methods, and exciting 
 Share the teaching philosophy and approach to the course.
 This could include goals for student learning, beliefs about effective teaching methods, and how to engage students in the course material.
 
-### Duration
-
-10 minutes
-
 ## D1 - Skills for computational biologists
+
+**Duration:** 10 minutes
 
 ### Rationale
 
@@ -188,11 +188,9 @@ Effective time management encompasses:
 
 Furthermore, it entails adaptability to shifting circumstances, whether unexpected delays or novel priorities, and the flexibility to revise plans as necessary.
 
-### Duration
-
-10 minutes
-
 ## L2 - Course overview
+
+**Duration:** 30 minutes
 
 ### Rationale
 
@@ -204,11 +202,9 @@ By providing a detailed overview of the course structure and expectations, you c
 Provide an overview of the course structure and expectations, including the class format, grading policies, and important dates or deadlines.
 This will help students understand what is expected of them and how to succeed in the course.
 
-### Duration
-
-30 minutes
-
 ## D2 - Providing and receiving feedback
+
+**Duration:** 5 minutes
 
 ### Rationale
 
@@ -365,23 +361,19 @@ This ongoing engagement facilitates improvements in the specific assignment and 
   As you progress with your writing and presentation projects, apply the lessons you’ve learned from previous feedback experiences.
   This ongoing improvement cycle will contribute to your continuous growth and development.
 
-### Duration
-
-5 minutes
-
 ## A1 - Feedback practice
+
+**Duration:** 15 minutes
 
 Lead [this activity](activity:feedback-practice).
 
-### Duration
-
-15 minutes
-
 ## Break
 
-10 minutes
+**Duration:** 10 minutes
 
 ## D3 - Types of scientific articles
+
+**Duration:** __ minutes
 
 ### Rationale
 
@@ -495,11 +487,9 @@ Key characteristics of an opinion piece in research include:
 Opinion pieces play a valuable role in research and academia by contributing to intellectual discourse, expanding the range of perspectives, and fostering critical thinking.
 They allow researchers to speculate, propose novel ideas, and challenge conventional wisdom.
 
-### Duration
-
-__ minutes
-
 ## L3 - How to find scientific articles
+
+**Duration:** __ minutes
 
 ### Rationale
 
@@ -600,27 +590,17 @@ Lastly, consider the clarity of the writing and the accessibility of complex com
 A well-written computational biology article should communicate intricate computational methodologies and their biological implications effectively.
 Striking a balance between technical terminology and broader accessibility ensures that the research can be understood and applied by researchers from various backgrounds.
 
-### Duration
-
-__ minutes
-
 ## A2 - Guided literature search
+
+**Duration:** 25 minutes
 
 Lead [this activity](activity:lit-search).
 
-### Duration
-
-25 minutes
-
 ## Closing remarks
+
+**Duration:** 5 minutes
 
 Conclude the class by summarizing the main points and allowing students to ask questions or provide feedback.
 You could prepare a short quiz or survey for students to complete to assess their understanding of the material covered in class.
 Summarizing the main points covered in class can help reinforce student learning.
 By allowing students to ask questions or provide feedback at the end of class, you can ensure that they understand the material covered and address any concerns or confusion.
-
-### Duration
-
-__ minutes
-
-TODO: Explain assignment
