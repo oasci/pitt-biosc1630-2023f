@@ -13,6 +13,9 @@ sphinx:
     language: en
     bibtex_bibfiles:
       - ./refs.bib
+    html_last_updated_fmt: "%b %d, %Y at %I:%M %p"
+  extra_extensions:
+    - sphinx_last_updated_by_git
 
 execute:
   execute_notebooks: force
