@@ -13,7 +13,10 @@ sphinx:
     language: en
     bibtex_bibfiles:
       - ./refs.bib
+    # https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
     html_last_updated_fmt: "%b %d, %Y at %I:%M %p"
+    # https://tzdata.readthedocs.io/en/latest/#
+    git_last_updated_timezone: "America/New_York"
   extra_extensions:
     - sphinx_last_updated_by_git
 
