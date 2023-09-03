@@ -2,8 +2,8 @@
 
 <p align="left">
     Fall 2023 •
-    University of Pittsburgh •
-    Department of Biological Sciences
+    <a href="https://www.pitt.edu/">University of Pittsburgh</a> •
+    <a href="https://www.biology.pitt.edu/">Department of Biological Sciences</a>
 </p>
 
 <p align="left">
