@@ -16,6 +16,12 @@ chapters:
         title: Class 03
       - file: classes/class-04
         title: Class 04
+      - file: classes/class-05
+        title: Class 05
+      - file: classes/class-06
+        title: Class 06
+      - file: classes/class-07
+        title: Class 07
   - file: assignments/index
     sections:
       - file: assignments/assignment-01
