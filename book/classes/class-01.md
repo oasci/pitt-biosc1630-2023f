@@ -8,7 +8,7 @@
         <b>August 30</b>
     </object>
     <object hspace="50">
-        <a href="../slides/class-01.html"><b>Slides</b></a>
+        <a href="../slides/slides-01.html"><b>Slides</b></a>
     </object>
     <object hspace="50">
         <a class="reference internal" href="../syllabus.html#course-outcomes"><span class="std std-ref"><strong>Outcomes</strong></span></a>: C1, C7

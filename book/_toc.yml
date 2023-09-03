@@ -14,6 +14,8 @@ chapters:
         title: Class 02
       - file: classes/class-03
         title: Class 03
+      - file: classes/class-04
+        title: Class 04
   - file: assignments/index
     sections:
       - file: assignments/assignment-01
@@ -26,8 +28,8 @@ chapters:
       - file: activities/02-activity-literature-search
   - file: slides/index
     sections:
-      - file: slides/class-01
-      - file: slides/class-02
+      - file: slides/slides-01
+      - file: slides/slides-02
   - file: resources/index
     title: Resources
     sections:
