@@ -418,7 +418,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - Methods review
 * - 5
   - September 27
-  - [Finding the story](class:05)
+  - [Storytelling](class:05)
   - Results discussion
 * - 6
   - October 4
