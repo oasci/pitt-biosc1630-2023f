@@ -49,11 +49,9 @@ $ which python
 /home/alex/venvs/biosc1630-2023-fall/bin/python
 ```
 
-Install all dependencies with `pip install -U jupyter-book`.
-Alternatively, use `pip install -r requirements.txt` from the [repository](https://github.com/aalexmmaldonado/biosc1630-2023-fall) to recreate the exact environment used to build the website.
-
+Use `pip install -r requirements.txt` from the [repository](https://github.com/aalexmmaldonado/biosc1630-2023-fall) to recreate the exact environment used to build the website.
 Build the website by running the `build.sh` script after cloning the [repository](https://github.com/aalexmmaldonado/biosc1630-2023-fall).
-You can now view the website by opening `book/build/html/index.html`.
+You can now view the website by opening `book/_build/html/index.html`.
 
 Once you are finished you can `deactivate` the virtual environment.
 
