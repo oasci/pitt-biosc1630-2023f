@@ -41,6 +41,7 @@ chapters:
     sections:
       - file: resources/journals
       - file: resources/scheduling
+      - file: resources/comp-bio-topics
   - file: misc/index
     title: Miscellaneous
     sections:
