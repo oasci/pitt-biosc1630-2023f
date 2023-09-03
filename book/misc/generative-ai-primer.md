@@ -37,13 +37,13 @@ Below is a working draft of my first message that helps standardize generative A
 
 When drafting lesson plans, I sometimes use the following header in my message followed by my learning objectives.
 
-> Each class will last for 150 minutes with a ten-minute break halfway through.
-> Class usually should involve instructor-led presentations, interactive questions, in-class activities.
+> Each class will last 150 minutes, with a ten-minute break halfway through.
+> Class usually should involve instructor-led presentations, interactive questions, and in-class activities.
 > In all responses, you must provide a rationale and outlines for course materials such as presentations, worksheets, activities, questions, etc.
-> I am not asking you to write any materials now, that will come in additional questions.
+> I am asking you to refrain from writing any materials that will come with additional questions.
 >
 > I need to prepare a lesson plan.
-> Can you please give me an outline with expected timings and any materials I should prepare, like presentations, worksheets, activities, questions, and rationales?
+> Please give me an outline with expected timings and any materials I should prepare, like presentations, worksheets, activities, questions, and rationales.
 
 Tailor and edit the suggestions to fit your style, values, and objectives.
 
