@@ -411,7 +411,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 3
   - September 13
   - [Methodology](class:03)
-  - Key points summary
+  - Paper proposal
 * - 4
   - September 20
   - [Results](class:04)
@@ -423,7 +423,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 6
   - October 4
   - [Abstracts](class:06)
-  - Paper proposal
+  - Science communication
 * - 7
   - October 11
   - [Critical analysis](class:07)
