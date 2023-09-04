@@ -79,6 +79,7 @@ This will add a line to `.gitignore` and `.gitsecret/paths/mapping.cfg` to mark 
 To stop encrypting the file, remove the lines in `.gitignore` and `.gitsecret/paths/mapping.cfg` and delete the `.secret` file.
 
 [pre-commit](https://pre-commit.com/) hooks are used to ensure all desired files are encrypted before commits.
+Building the book before committing is beneficial as it will encrypt and decrypt files as necessary so you can see which files are changing.
 `git secret reveal` will allow you to decrypt these files if you have access.
 
 ## Acknowledgements

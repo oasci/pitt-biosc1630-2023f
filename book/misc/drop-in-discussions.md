@@ -22,13 +22,15 @@ We can then coordinate a convenient time to connect virtually or in person.
 
 ## Time
 
-Drop-in discussions will be on Tuesdays from 1:00 PM - 2:00 PM.
+Drop-in discussions will be on Thursdays from 11:00 AM - 12:00 PM.
 
 ## Location
 
-I will be in L1 Clapp Hall during the allotted time.
-If you walk in from the main entrance off of 5th Ave, head through the double doors on the left.
-It is the first conference room on the left before going down the steps.
+I will be in ~~L1 Clapp Hall during the allotted time.~~
+~~If you walk in from the main entrance off of 5th Ave, head through the double doors on the left.~~
+~~It is the first conference room on the left before going down the steps.~~
+
+**TO BE DETERMINED**
 
 ```{raw} html
 <div style="overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Clapp+Hall,+Fifth+Avenue,+Pittsburgh,+PA,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="our-googlemap-code" href="https://kbj9qpmy.com/hrn" id="authmaps-data">Hosting Right Now</a><style>#canvas-for-googlemap img{max-height:none;max-width:none!important;background:none!important;}</style></div>
