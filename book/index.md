@@ -16,7 +16,7 @@
     <a href="https://github.com/aalexmmaldonado/biosc1630-2023-fall/actions/workflows/gh-pages.yml" target="_blank">
         <img src="https://github.com/aalexmmaldonado/biosc1630-2023-fall/actions/workflows/gh-pages.yml/badge.svg?branch=main" alt="GitHub repo size">
     </a>
-    <a href="https://github.com/executablebooks/jupyter-book" target="_blank">
+    <a href="https://jupyterbook.org/en/stable/intro.html" target="_blank">
         <img src="_static/jb-badge.svg" alt="Jupyter book">
     </a>
 </p>
