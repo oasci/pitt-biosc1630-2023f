@@ -32,6 +32,8 @@ chapters:
     sections:
       - file: activities/01-activity-practice-feedback
       - file: activities/02-activity-literature-search
+      - file: activities/03-activity-reading-for-gist
+      - file: activities/04-activity-active-reading
   - file: slides/index
     sections:
       - file: slides/slides-01

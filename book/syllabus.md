@@ -411,7 +411,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 3
   - September 13
   - [Methodology](class:03)
-  - Paper proposal
+  - [Proposal](assignment:02)
 * - 4
   - September 20
   - [Results](class:04)
