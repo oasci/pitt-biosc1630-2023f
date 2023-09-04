@@ -34,6 +34,7 @@ chapters:
       - file: activities/02-activity-literature-search
       - file: activities/03-activity-reading-for-gist
       - file: activities/04-activity-active-reading
+      - file: activities/05-paper-discussion
   - file: slides/index
     sections:
       - file: slides/slides-01
