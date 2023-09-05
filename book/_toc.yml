@@ -44,6 +44,10 @@ chapters:
     sections:
       - file: slides/slides-01
       - file: slides/slides-02
+  - file: solutions/index
+    sections:
+      - file: solutions/solution-01
+        title: Solution 01
   - file: resources/index
     title: Resources
     sections:
