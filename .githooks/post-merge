@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+repo_root=$(git rev-parse --show-toplevel)
+
+secret_files=$(find $repo_root -type f -name "*.secret")
+
+# Iterate through all .secret files in the repository
+for secret_file in $secret_files; do
+    decrypted_file="${secret_file%.secret}"
+    
+    # Create backup file of decrypted file in case it exists.
+    if [ -f "$decrypted_file" ]; then
+        backup_path="$decrypted_file.bak"
+        cp "$decrypted_file" "$backup_path"
+    fi
+done
+
+# Decrypt all secret files if possible
+git secret reveal -fF 2>&1 || true

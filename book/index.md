@@ -80,6 +80,18 @@ To stop encrypting the file, remove the lines in `.gitignore` and `.gitsecret/pa
 Building the book before committing is beneficial as it will encrypt and decrypt files as necessary so you can see which files are changing.
 `git secret reveal` will allow you to decrypt these files if you have access.
 
+## Hooks
+
+We have added a [`post-merge` hook](https://git-scm.com/docs/githooks#_post_merge) in `.githooks` that will ensure the encrypted files are handled correctly.
+It will create backups of all decrypted files in the local repository if they exist.
+Then, it will decrypt the `.secret` files to ensure the unencrypted files are consistent.
+
+To use these hooks, you must run the following command while in the repository to use them.
+
+```bash
+git config core.hooksPath .githooks
+```
+
 ## Acknowledgements
 
 I sincerely thank the following individuals who have played a significant role in supporting the development of this course and my teaching.

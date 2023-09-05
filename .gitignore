@@ -16,6 +16,7 @@ psi.*.clean
 # git-secret
 .gitsecret/keys/random_seed
 !*.secret
+*.bak
 
 # Materials
 book/classes/class-02.md
