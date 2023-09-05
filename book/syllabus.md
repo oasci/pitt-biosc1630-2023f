@@ -15,7 +15,7 @@ I prefer to be called by my first name
 <br>
 **Email:** `alex.maldonado@pitt.edu`
 <br>
-**Drop-in discussions:** [Tuesdays 1:00 PM - 2:00 PM](drop-in-discussions)
+**Drop-in discussions:** [Thursdays 11:00 AM - 12:00 PM](drop-in-discussions)
 
 ## Description
 

@@ -31,10 +31,15 @@ chapters:
   - file: activities/index
     sections:
       - file: activities/01-activity-practice-feedback
+        title: 01 - Practice providing feedback
       - file: activities/02-activity-literature-search
+        title: 01 - Finding literature
       - file: activities/03-activity-reading-for-gist
+        title: 02 - Reading for gist
       - file: activities/04-activity-active-reading
-      - file: activities/05-paper-discussion
+        title: 02 - Active reading
+      - file: activities/05-activity-role-based-article-analysis
+        title: 02 - Role-based article analysis
   - file: slides/index
     sections:
       - file: slides/slides-01
