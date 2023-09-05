@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+repo_root=$(git rev-parse --show-toplevel)
+
+bak_files=$(find $repo_root -type f -name "*.bak")
+
+# Iterate through all .bak files in the repository
+for bak_file in $bak_files; do
+    rm $bak_file
+done
