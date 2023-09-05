@@ -137,7 +137,7 @@ Computational biology hinges on utilizing computational methodologies to dissect
 The significance of problem-solving skills for computational biologists resides in their capacity to delineate the core challenges and constraints tied to a research problem.
 This encompasses deconstructing intricate predicaments into more manageable segments, employing logical deduction and critical evaluation to scrutinize the scenario from multiple angles, and deploying inventiveness and originality to foster pioneering solutions.
 
-**Critical Thinking**
+**Critical thinking**
 
 Critical thinking is a pivotal competency for computational biologists, enabling them to dissect information judiciously and form well-considered judgments.
 In computational biology, computational approaches are harnessed to dissect and interpret expansive and intricate biological data.
@@ -151,7 +151,7 @@ Creativity is pivotal for computational biologists, furnishing them with the cap
 Profound creativity skills are critical for computational biologists as they facilitate thinking beyond conventional paradigms, paving the way for inventive strategies in data analysis.
 This can encompass forging innovative algorithms or models or applying existing techniques in unprecedented ways. By harnessing creativity, computational biologists guide fresh insights and breakthroughs that might evade conventional approaches.
 
-**Emotional Intelligence**
+**Emotional intelligence**
 
 Emotional intelligence takes center stage as a crucial skill for computational biologists, endowing them with the ability to comprehend and navigate their own emotions alongside those of their peers.
 Given the collaborative milieu of computational biology, which often entails cross-disciplinary teamwork, strong emotional intelligence bolsters effective communication and collaboration.
@@ -167,7 +167,7 @@ With continuous developments in technologies, methodologies, and techniques, com
 Adaptability empowers computational biologists to swiftly amass and apply fresh skills and insights, all while remaining flexible in their problem-solving methodologies.
 This could involve mastering novel programming languages, staying abreast of the latest research advancements, or exploring innovative angles in data analysis.
 
-**Negotiation and Conflict Resolution**
+**Negotiation and conflict resolution**
 
 Negotiation and conflict resolution skills assume pivotal roles in the toolkit of computational biologists, capacitating them to navigate disagreements and disputes constructively.
 Computational biology's collaborative framework often entails interaction with colleagues from diverse disciplines, and adept negotiation and conflict resolution skills facilitate effective communication and harmonious collaboration.
@@ -175,7 +175,7 @@ Computational biology's collaborative framework often entails interaction with c
 Negotiation involves arriving at mutually advantageous agreements through dialogue and compromise.
 This entails pinpointing common ground, identifying shared objectives, and collaborating on solutions that cater to all parties involved. Conversely, conflict resolution entails the ability to address conflicts and discord constructively, which consists in discerning the underlying roots of the disagreement, fostering candid communication, and collaborating to generate solutions accepted by all.
 
-**Time Management**
+**Time management**
 
 Time management is important for computational biologists, empowering them to prioritize and manage their workload methodically.
 Juggling multiple projects is a norm in computational biology, necessitating adept allocation of time and resources to meet deadlines and accomplish objectives.
@@ -288,7 +288,7 @@ What type you use at what point will depend on the goals, the purpose of the fee
 Effective feedback is a cornerstone of successful learning in computational biology, as it plays a pivotal role in guiding students toward improvement and growth.
 To ensure that feedback serves its intended purpose, adhering to several guiding principles is crucial.
 
-**Targeted and Concise**
+**Targeted and concise**
 
 One common pitfalls in providing feedback is overwhelming authors with excessive information.
 While it's natural to want to cover every aspect of their work, an overflow of feedback can lead to confusion and make it difficult for them to know where to begin.
@@ -303,14 +303,14 @@ Rather than offering generic advice, link your feedback to the stated goals of t
 By making these connections, you can better focus on how your feedback contributes to their objectives.
 This alignment fosters a deeper understanding of the material and encourages students to engage with the content thoughtfully.
 
-**Action-Oriented Guidance**
+**Action-oriented guidance**
 
 The essence of effective feedback lies in its actionable nature.
 Rather than solely identifying flaws, provide the author with clear and specific suggestions for revision.
 Highlight particular sections or elements within their work that could benefit from refinement and offer guidance on addressing those areas.
 This guidance should be tangible and practical as a step-by-step roadmap to enhance the work.
 
-**Timely Feedback Iterations**
+**Timely feedback iterations**
 
 Feedback must improve effectiveness when provided too close to the final submission deadline.
 Be conscious of how much time the author can incorporate your feedback.
@@ -321,11 +321,11 @@ This ongoing engagement facilitates improvements in the specific assignment and 
 
 #### Incorporating feedback
 
-- **Stay Open-Minded:**
+- **Stay open-minded:**
   Approach feedback with an open mindset.
   Recognize that feedback is not a critique of your abilities but an opportunity for improvement.
   A receptive attitude sets the stage for a constructive feedback loop.
-- **Review and Reflect:**
+- **Review and reflect:**
   Take time to review the feedback you’ve received thoroughly.
   Read through the comments and suggestions carefully, making notes of the key areas highlighted for improvement.
   Reflect on how these areas align with your original goals for the writing or presentation.
@@ -336,28 +336,28 @@ This ongoing engagement facilitates improvements in the specific assignment and 
   Contextualize the feedback within the larger scope of your work.
   Understand how the suggestions align with the purpose of your writing or presentation.
   This ensures that your revisions are aligned with your intended message and goals.
-- **Plan Revisions:**
+- **Plan revisions:**
   Devise a clear plan for incorporating the feedback.
   Break down the revision process into actionable steps.
   This could involve rewriting specific sections, reorganizing content, or enhancing visual aids for presentations.
-- **Implement Changes:**
+- **Implement changes:**
   Start making the changes based on the feedback you’ve received.
   Be willing to rework sentences, rearrange paragraphs, or adjust slides.
   Don’t be afraid to experiment with different approaches to see what works best.
 - **Seek clarification:**
   If specific feedback points are unclear, seek clarification from the person who provided the feedback.
   Clearing up any uncertainties ensures you make accurate changes and fully grasp the intended suggestions.
-- **Proofread and Edit:**
+- **Proofread and edit:**
   After implementing the changes, proofread and edit your work meticulously.
   Ensure that your revisions flow seamlessly with the rest of the content. Address any grammatical or formatting issues arising during the revision process.
-- **Share Again for Feedback:**
+- **Share again for feedback:**
   Please share your revised work with the same or other individuals for further feedback.
   This helps you gauge whether your revisions effectively address the initial concerns and whether the changes enhance the overall quality.
-- **Reflect on the Process:**
+- **Reflect on the process:**
   Take a moment to reflect on the entire feedback and revision process.
   Consider how you’ve evolved as a writer or presenter and the lessons you’ve learned.
   This reflective practice enhances your ability to apply feedback in the future.
-- **Apply Lessons Learned:**
+- **Apply lessons learned:**
   As you progress with your writing and presentation projects, apply the lessons you’ve learned from previous feedback experiences.
   This ongoing improvement cycle will contribute to your continuous growth and development.
 
@@ -395,10 +395,10 @@ Primary research articles play a crucial role in advancing scientific knowledge 
 
 Key characteristics of a primary research article include:
 
-- **Original Research:**
+- **Original research:**
   Primary research articles document research that is conducted firsthand by the authors.
   This involves designing and executing experiments, collecting data, analyzing results, and drawing conclusions based on the data.
-- **Standard Format:**
+- **Standard format:**
   They typically follow a structured format that includes sections such as Introduction, Methods, Results, and Discussion (commonly known as IMRAD).
   This format ensures consistency across articles and helps readers easily locate specific information.
 - **Introduction:**
@@ -428,32 +428,32 @@ They serve as valuable resources for researchers, students, and professionals wh
 
 Key characteristics of a review article include:
 
-- **Comprehensive Analysis:**
+- **Comprehensive analysis:**
   Review articles offer a broad survey of the research landscape within a defined topic area.
   They aim to cover significant research findings, methodologies, trends, controversies, and gaps in the field.
-- **Integration of Research:**
+- **Integration of research:**
   Authors of review articles gather information from multiple primary research articles, often spanning different studies, experiments, and authors.
   This integration allows them to synthesize and consolidate the findings into a coherent narrative.
-- **Objective Presentation:**
+- **Objective presentation:**
   Review articles may include the author's interpretations but generally maintain a balanced and objective tone.
   The focus is on presenting the collective knowledge within the field rather than advancing new hypotheses or experimental data.
-- **Structured Format:**
+- **Structured format:**
   Similar to primary research articles, review articles often follow a structured format.
   This typically includes an introduction that outlines the scope and purpose of the review, sections that delve into various aspects of the topic, and a conclusion that summarizes the essential findings and suggests potential future directions for research.
-- **Citation of Primary Sources:**
+- **Citation of primary sources:**
   Proper citation is a crucial aspect of review articles.
   Authors must provide citations for the primary research articles and studies they reference.
   This allows readers to trace back to the sources to explore specific topics in more detail.
 
 Review articles are particularly beneficial in several ways:
 
-- **Efficient Overview:**
+- **Efficient overview:**
   They provide a concise and organized overview of a complex topic, saving readers time and effort in sifting through numerous primary sources.
-- **Identifying Trends and Gaps:**
+- **Identifying trends and gaps:**
   Review articles often highlight the evolution of ideas within a field, identify gaps in knowledge, and suggest potential research directions.
-- **Educational Resource:**
+- **Educational resource:**
   Review articles are helpful educational tools for students and newcomers to a field, as they offer a solid foundation for understanding the state of current knowledge.
-- **Clarifying Controversies:**
+- **Clarifying controversies:**
   Review articles can help readers understand ongoing debates and controversies within a field by presenting multiple perspectives and interpretations.
 
 ##### Opinion
@@ -464,23 +464,23 @@ While primary research articles present original research findings and review ar
 
 Key characteristics of an opinion piece in research include:
 
-- **Subjective Interpretation:**
+- **Subjective interpretation:**
   Unlike primary research articles that rely on empirical data and evidence and review articles that synthesize existing research, opinion pieces are inherently subjective.
   They reflect the author's viewpoints and interpretations.
-- **Engagement with Ideas:**
+- **Engagement with ideas:**
   Opinion pieces often engage with broader concepts, theories, controversies, or trends within a field.
   Authors may provide critical analyses, propose alternative explanations, challenge prevailing norms, or speculate about future directions.
-- **Exploratory Nature:**
+- **Exploratory nature:**
   Opinion pieces are exploratory in nature.
   Authors use them as platforms to brainstorm ideas, encourage dialogue, and spark further investigation into specific topics.
-- **Less Formal Structure:**
+- **Less formal structure:**
   While primary research and review articles follow structured formats, opinion pieces may have a more flexible structure.
   However, they typically include an introduction that sets the context, a body presenting the author's argument or perspective, and a conclusion summarizing key points.
-- **Use of Rhetorical Devices:**
+- **Use of rhetorical devices:**
   Authors of opinion pieces may use rhetorical devices such as anecdotes, metaphors, and persuasive language to effectively engage readers and convey their perspectives.
-- **Stimulating Discussion:**
+- **Stimulating discussion:**
   Opinion pieces often serve as catalysts for discussion, inviting readers to consider alternative viewpoints and engage in thoughtful debate.
-- **Varied Audience:**
+- **Varied audience:**
   Opinion pieces can target experts within a field and a wider audience interested in the topic.
   They bridge the gap between specialized research and general public interest.
 
