@@ -1,19 +1,29 @@
 #!/usr/bin/env bash
 
-repo_root=$(git rev-parse --show-toplevel)
-
-secret_files=$(find $repo_root -type f -name "*.secret")
+SECRETS_EXTENSION=".secret"
+SECRETS_GPG_ARMOR=0
 
 # Iterate through all .secret files in the repository
+repo_root=$(git rev-parse --show-toplevel)
+secret_files=$(find $repo_root -type f -name "*.secret")
 for secret_file in $secret_files; do
-    decrypted_file="${secret_file%.secret}"
+    decrypted_file="${secret_file%.secret}"  # removes .secret
     
     # Create backup file of decrypted file in case it exists.
     if [ -f "$decrypted_file" ]; then
         backup_path="$decrypted_file.bak"
         cp "$decrypted_file" "$backup_path"
     fi
-done
 
-# Decrypt all secret files if possible
-git secret reveal -fF 2>&1 || true
+    # Decrypt file if possible
+    relative_decrypted_path="${decrypted_file#$repo_root}"
+    git secret reveal -fF "$relative_decrypted_path" >/dev/null 2>&1  # Suppressed
+
+    # Compare contents of decrpyted file to backup. If they are the same, we delete
+    # the backup.
+    if [ -f "$decrypted_file" ]; then
+        if cmp --silent -- "$decrypted_file" "$backup_path"; then
+            rm "$backup_path"
+        fi
+    fi
+done
