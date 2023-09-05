@@ -1,7 +1,7 @@
-<!-- markdownlint-disable MD041 MD036 MD024 -->
+<!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 (class:01)=
-# 01 - Introduction <!-- markdownlint-disable-line MD022 -->
+# 01 - Introduction
 
 <p style="text-align: center;">
     <object hspace="50">

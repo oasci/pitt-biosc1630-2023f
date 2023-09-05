@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
+
 (drop-in-discussions)=
 # Drop-in discussions
 
@@ -26,11 +28,11 @@ Drop-in discussions will be on Thursdays from 11:00 AM - 12:00 PM.
 
 ## Location
 
-I will be in ~~L1 Clapp Hall during the allotted time.~~
-~~If you walk in from the main entrance off of 5th Ave, head through the double doors on the left.~~
-~~It is the first conference room on the left before going down the steps.~~
-
-**TO BE DETERMINED**
+I will be in 315 Clapp Hall during the allotted time.
+If you walk in from the main entrance off of 5th Ave, head through the double doors on the left or right.
+Go down a few steps and find the elevator at the hallway intersection.
+Take the elevator to the 3rd floor.
+Turn left after exiting the elevator, and the room is right there.
 
 ```{raw} html
 <div style="overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Clapp+Hall,+Fifth+Avenue,+Pittsburgh,+PA,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="our-googlemap-code" href="https://kbj9qpmy.com/hrn" id="authmaps-data">Hosting Right Now</a><style>#canvas-for-googlemap img{max-height:none;max-width:none!important;background:none!important;}</style></div>

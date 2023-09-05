@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
+
 # Classes
 
 We meet every Wednesday for 150 minutes (1:00 PM - 3:30 PM).
