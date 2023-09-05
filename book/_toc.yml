@@ -55,7 +55,7 @@ chapters:
       - file: activities/02-activity-active-reading
         title: 02 - Active reading
       - file: activities/02-activity-role-based-analysis
-        title: 02 - Role-based article analysis
+        title: 02 - Role-based analysis
   - file: slides/index
     sections:
       - file: slides/slides-01
