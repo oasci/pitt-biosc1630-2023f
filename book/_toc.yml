@@ -63,6 +63,7 @@ chapters:
       - file: misc/class-time
       - file: misc/generative-ai-primer
       - file: misc/easter-egg
+      - file: misc/paper-collection
   - file: enigma-elites
     title: Comp Bio Enigma Elites
   - file: refs
