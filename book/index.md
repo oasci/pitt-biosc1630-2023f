@@ -86,7 +86,7 @@ We have added a [`post-merge` hook](https://git-scm.com/docs/githooks#_post_merg
 It will create backups of all decrypted files in the local repository if they exist.
 Then, it will decrypt the `.secret` files to ensure the unencrypted files are consistent.
 
-To use these hooks, you must run the following command while in the repository to use them.
+You must run the following command while in the repository to use these hooks.
 
 ```bash
 git config core.hooksPath .githooks
