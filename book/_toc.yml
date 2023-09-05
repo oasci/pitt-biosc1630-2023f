@@ -22,6 +22,22 @@ chapters:
         title: Class 06
       - file: classes/class-07
         title: Class 07
+      - file: classes/class-08
+        title: Class 08
+      - file: classes/class-09
+        title: Class 09
+      - file: classes/class-10
+        title: Class 10
+      - file: classes/class-11
+        title: Class 11
+      - file: classes/class-12
+        title: Class 12
+      - file: classes/class-13
+        title: Class 13
+      - file: classes/class-14
+        title: Class 14
+      - file: classes/class-15
+        title: Class 15
   - file: assignments/index
     sections:
       - file: assignments/assignment-01
@@ -38,7 +54,7 @@ chapters:
         title: 02 - Reading for gist
       - file: activities/04-activity-active-reading
         title: 02 - Active reading
-      - file: activities/05-activity-role-based-article-analysis
+      - file: activities/05-activity-role-based-analysis
         title: 02 - Role-based article analysis
   - file: slides/index
     sections:
