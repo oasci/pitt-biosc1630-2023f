@@ -28,6 +28,12 @@ It helps put you in the right mindset to digest the scientific article.
 First, read only the title and write **one paragraph** about your prior knowledge.
 Even if you are unfamiliar, write any supporting knowledge you could use to build off when reading the article.
 
+:::{admonition} Motivation
+Keeping up-to-date with literature means quickly determining if an article is worth reading.
+Tons of papers come out daily, and most RSS feeds only provide the title.
+To orient myself, I make a quick judgment call based on the title, if the article is relevant, and how long it would take me to understand it.
+:::
+
 ### Active reading
 
 Active reading involves engaging with the text purposefully and interactively to enhance comprehension and retention.
