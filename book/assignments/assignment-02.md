@@ -94,7 +94,6 @@ Your assignment will be evaluated based on the following criteria.
 - **Selection of additional literature (1.0 points):**
   We will evaluate the relevance and appropriateness of the additional primary literature articles you suggest for each selected article.
   These additional articles should enhance your understanding by providing valuable context and background information.
-  Explain why you believe these secondary articles are pertinent to your primary selections.
 - **Grammar and writing quality (0.5 points):**
   This aspect concerns the overall quality of your writing, including grammar, spelling, and sentence structure.
   Ensure that your assignment is well-written and free from significant language errors.
