@@ -19,7 +19,6 @@ psi.*.clean
 *.bak
 
 # Materials
-book/classes/class-02.md
 book/classes/class-03.md
 book/assignments/assignment-02.md
 book/classes/class-04.md
@@ -36,7 +35,3 @@ book/classes/class-12.md
 book/classes/class-13.md
 book/classes/class-14.md
 book/classes/class-15.md
-book/activities/02-activity-active-reading.md
-book/activities/02-activity-reading-for-gist.md
-book/activities/02-activity-role-based-analysis.md
-book/slides/pdfs/biosc-1630-2023-fall-02.pdf
