@@ -13,19 +13,47 @@ The goal of this assignment is to help students develop the skills necessary to 
 
 ## Instructions
 
-In this assignment, your task is to identify and select three distinct scientific articles within computational biology.
+In this assignment, your task is to identify and select **three distinct scientific articles**.
 These chosen articles will be the primary focal points for your upcoming literature review and presentation.
+Each of your articles needs to meet the following criteria:
 
-For each selected article, provide a concise rationale, approximately 150-200 words, explaining the reasoning behind your choice.
+- A substantial portion involves computational biology.
+  It can have some experimental validation, but that should not be the article's primary focus.
+- Published after January 1st, 2020.
+- Has been cited at least two times according to [Google Scholar](https://scholar.google.com/).
+
+:::{attention}
+Remember that your review paper will be between 7 and 9 pages, and your presentation is for 20 minutes.
+Ensure that your articles have enough content, background, results, and future work to talk about.
+:::
+
+### Summarize
+
+**For each selected article, provide a concise rationale, approximately 150-200 words**, explaining the reasoning behind your choice.
 This rationale should include
 
 - the article's significance within the realm of computational biology,
-- its potential contribution to your comprehension of the subject matter,
 - and a brief yet informative summary detailing the article's primary research question or objective.
 
-As a final component of this assignment, propose an additional primary literature article cited within your chosen article for each of the three selections.
-Briefly summarize the relevance of these secondary articles in a few sentences, elucidating how they can provide essential context and background information about your primary selections.
-This will further enrich your understanding of the chosen topics and contribute to the depth of your literature review and presentation.
+### References
+
+Include an annotated reference list of at least **three** primary literature references for each selected article.
+
+:::{tip}
+Here is an example of an annotated bibliography.
+
+1. Hay, S. I., Rogers, D. J., Randolph, S. E., Stern, D. I., Cox, J., Shanks, G. D., & Snow, R. W. (2002). Hot topic or hot air? Climate change and malaria resurgence in East African highlands. *TRENDS in Parasitology, 18*(12), 530-534.
+
+> This paper argues that temperature has not changed significantly and that factors other than climate - such as drug resistance and land use change - are responsible for the increased malarian incidence.
+
+2. Stern, D. I., Gething, P. W., Kabaria, C. W., Temperley, W. H., Noor, A. M., Okiro, E. A., ... & Hay, S. I. (2011). Temperature and malaria trends in highland East Africa. *PloS one, 6*(9), e24524.
+
+> This paper argues that mean temperatures have increased significantly from 1950-2002, though there are areas of Africa where malaria has decreased while the temperature increased.
+
+3. Zhou, G., Minakawa, N., Githeko, A. K., & Yan, G. (2004). Association between climate variability and malaria epidemics in the East African highlands. *Proceedings of the National Academy of Sciences, 101*(8), 2375-2380.
+
+> This paper argues that climate variability has a more significant impact on malaria incidence than mean temperature change.
+:::
 
 ## Submission
 
