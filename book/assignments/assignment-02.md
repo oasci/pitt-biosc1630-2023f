@@ -14,8 +14,8 @@ The goal of this assignment is to help students develop the skills necessary to 
 ## Instructions
 
 In this assignment, your task is to identify and select **three distinct scientific articles**.
-These chosen articles will be the primary focal points for your upcoming literature review and presentation.
-Each of your articles needs to meet the following criteria:
+One of these articles will be the primary focal point for your upcoming literature review and presentation.
+Each of your proposed articles need to meet the following criteria:
 
 - A substantial portion involves computational biology.
   It can have some experimental validation, but that should not be the article's primary focus.
@@ -26,6 +26,10 @@ Each of your articles needs to meet the following criteria:
 Remember that your review paper will be between 7 and 9 pages, and your presentation is for 20 minutes.
 Ensure that your articles have enough content, background, results, and future work to talk about.
 :::
+
+Please rank them from most to least desired articles.
+I will review your top choice and ensure it will be sufficient for your review and presentation.
+Otherwise, I will have to select one of your other two options.
 
 ### Summarize
 
