@@ -107,7 +107,7 @@ Briefly review the summaries and provide some feedback.
 Groups with different papers can vote with a multiple-choice question on which summary had the most efficient communication.
 Or the instructor can choose unilaterally.
 
-<!-- ## ChatGPT submissions
+## ChatGPT submissions
 
 As a side experiment, I am submitting these texts made entirely with ChatGPT-3.5 without editing.
 I want to demonstrate the capabilities of generative AI.
@@ -140,4 +140,3 @@ For [10.1021/acs.jcim.3c00945](https://doi.org/10.1021/acs.jcim.3c00945):
 > Through the use of low-level models and quantitative in vitro to in vivo extrapolation (QIVIVE), the method demonstrates superior sensitivity and predictive quality compared to traditional direct QSAR modeling.
 > Importantly, this approach proves its robustness even when predicting structurally diverse compounds, emphasizing its potential for early drug development and safety assessment.
 > The study's innovative framework holds promise for advancing computational biology and supporting next-generation risk assessments. 
--->
