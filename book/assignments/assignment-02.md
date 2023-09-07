@@ -18,7 +18,25 @@ One of these articles will be the primary focal point for your upcoming literatu
 Each of your proposed articles need to meet the following criteria:
 
 - A substantial portion involves computational biology.
-  It can have some experimental validation, but that should not be the article's primary focus.
+  It can have some experimental data, but that should not be the article's primary focus.
+
+  :::{tip}
+  How can you tell if the primary focus is experimental?
+
+    - The vast majority of the methods describe experimental procedures in detail.
+    - Most tables and figures are data from assays, imaging, etc.
+    - Computational results seem to be tacked on at the end to support or enhance their experimental work computationally.
+
+  For example, [this article](https://doi.org/10.7554/eLife.88229.2) has a healthy amount of experimental and computational methods and data.
+  Their use of computational methods is at the forefront of their results.
+  Another example [here](https://doi.org/10.7554/eLife.90773.2) applies computational techniques for structural insight into protein.
+  These would be acceptable papers.
+
+  An unacceptable paper would be [this one](https://doi.org/10.1016/j.cell.2023.08.017).
+  Their main objective is the genetic manipulation of Patescibacteria.
+  They do use computational methods such as AlphaFold, but this is supplementary to their main purpose.
+  :::
+
 - Published after January 1st, 2020.
 - Has been cited at least two times according to [Google Scholar](https://scholar.google.com/).
 
