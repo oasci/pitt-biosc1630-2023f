@@ -96,10 +96,8 @@ git config core.hooksPath .githooks
 
 I sincerely thank the following individuals who have played a significant role in supporting the development of this course and my teaching.
 
-- Emily Kerr for mentorship in pedagogy.
+- [Emily Kerr](https://www.engineering.pitt.edu/people/staff/emily-kerr/) for mentorship in pedagogy.
 - Anita Mallinger for mentorship in writing and teaching.
-- Kevin Randall for teaching advice and support.
+- [Jacob Durrant](https://www.biology.pitt.edu/person/jacob-durrant), [Danielle Spitzer](https://www.biology.pitt.edu/person/danielle-spitzer), [Liesje Steenkiste](https://www.biology.pitt.edu/person/liesje-steenkiste), and Kevin Randall for teaching advice and support.
 - [Valerie Oke](https://www.biology.pitt.edu/person/valerie-oke) for providing previous course materials and guidance.
-- [Jacob Durrant](https://www.biology.pitt.edu/person/jacob-durrant) for advice and support.
-- [Ben J. Vincent](https://scholar.google.com/citations?user=BPoxstcAAAAJ) for providing previous course materials.
-- [Katie Wetzel](http://www.hatfull.org/katie-wetzel) for providing previous course materials.
+- [Ben J. Vincent](https://scholar.google.com/citations?user=BPoxstcAAAAJ) and [Katie Wetzel](http://www.hatfull.org/katie-wetzel) for providing previous course materials.
