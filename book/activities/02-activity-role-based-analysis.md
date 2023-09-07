@@ -12,7 +12,7 @@ This exercise fosters a nuanced understanding of the research, encourages critic
 
 ## Form groups
 
-**Duration:** 0 minute
+**Duration:** 0 minutes
 
 Groups should already be formed from [here](activity:active-reading:form-group).
 

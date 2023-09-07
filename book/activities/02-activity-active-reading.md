@@ -12,7 +12,7 @@ The objective is to engage students in active reading techniques to promote deep
 (activity:active-reading:form-group)=
 ## Form groups
 
-**Duration:** 0 minute
+**Duration:** 0 minutes
 
 Groups should already be formed from [this activity](activity:read-for-gist:form-group).
 
