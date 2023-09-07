@@ -103,3 +103,4 @@ I sincerely thank the following individuals who have played a significant role i
 - [Jacob Durrant](https://www.biology.pitt.edu/person/jacob-durrant), [Danielle Spitzer](https://www.biology.pitt.edu/person/danielle-spitzer), [Liesje Steenkiste](https://www.biology.pitt.edu/person/liesje-steenkiste), and Kevin Randall for teaching advice and support.
 - [Valerie Oke](https://www.biology.pitt.edu/person/valerie-oke) for providing previous course materials and guidance.
 - [Ben J. Vincent](https://scholar.google.com/citations?user=BPoxstcAAAAJ) and [Katie Wetzel](http://www.hatfull.org/katie-wetzel) for providing previous course materials.
+- [Dennis Loevlie](https://www.loevliedl.com/) for debugging and testing this semester's Easter Egg.
