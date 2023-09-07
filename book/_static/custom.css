@@ -22,10 +22,14 @@ a.reference.external:after {
         page-break-inside: avoid;
     }
 
-    table {
-        page-break-before: avoid;
+    div.table {
+        page-break-before: auto;
         page-break-inside: auto;
         display: table;
         position: relative;
+    }
+
+    div.admonition {
+        page-break-inside: auto;
     }
 }
