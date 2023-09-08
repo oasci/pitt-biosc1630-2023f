@@ -13,7 +13,7 @@ The goal of this assignment is to help students develop the skills necessary to 
 
 ## Instructions
 
-In this assignment, your task is to identify and select **three distinct scientific articles**.
+In this assignment, your task is to identify and select **two distinct scientific articles**.
 One of these articles will be the primary focal point for your upcoming literature review and presentation.
 Each of your proposed articles need to meet the following criteria:
 
@@ -59,7 +59,7 @@ This rationale should include
 
 ### References
 
-Include an annotated reference list of at least **three** primary literature references for each selected article.
+Include an annotated reference list of at least **two** primary literature references for each selected article.
 
 :::{tip}
 Here is an example of an annotated bibliography.
