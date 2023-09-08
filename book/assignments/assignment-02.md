@@ -4,7 +4,7 @@
 # Assignment 02 - Proposal
 
 <p style="text-align: center;">
-    <strong>Due</strong></a>: September 13, 2023 by 1:00 p.m.
+    <strong>Due</strong></a>: September 20, 2023 by 1:00 p.m.
 </p>
 
 ## Objective

@@ -220,7 +220,6 @@ We encourage you to use the rubric to self-assess your participation and reflect
 ```
 ````
 
-
 ## Assessments
 
 Below are short descriptions of the assessments used during this course.
@@ -411,11 +410,11 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 3
   - September 13
   - [Methodology](class:03)
-  - [Proposal](assignment:02)
+  -
 * - 4
   - September 20
   - [Results](class:04)
-  - Methods review
+  - [Proposal](assignment:02)
 * - 5
   - September 27
   - [Storytelling](class:05)
