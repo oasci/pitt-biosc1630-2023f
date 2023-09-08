@@ -51,7 +51,7 @@ Otherwise, I will have to select one of your other two options.
 
 ### Summarize
 
-**For each selected article, provide a concise rationale, approximately 150-200 words**, explaining the reasoning behind your choice.
+**For each selected article, provide a concise rationale of at least 100 words** explaining the reasoning behind your choice.
 This rationale should include
 
 - the article's significance within the realm of computational biology,
