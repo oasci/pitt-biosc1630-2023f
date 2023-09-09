@@ -32,6 +32,16 @@ You must also have completed BIOSC 1540 with a minimum grade of `C` **and** one 
 - ENGFLM 0210;
 - FP (0003 or 0006).
 
+## Writing intensive
+
+BIOSC 1630 will fulfill the requirement for a writing-intensive course in your major.
+The [Dietrich School of Arts & Sciences Writing Institute defines this as](https://www.writinginstitute.pitt.edu/w-courses/proposing-new-writing-intensive-courses)
+
+> - a course in which students engage with writing substantively throughout the term;
+> - they write and revise throughout the term (not just at the end);
+> - they write a total of 23-25 double-spaced pages (5750-6250 words);
+> - they get feedback from their teacher and their peers.
+
 ## Philosophy
 
 Clear and efficient communication is a crucial---and often neglected---aspect of science.
