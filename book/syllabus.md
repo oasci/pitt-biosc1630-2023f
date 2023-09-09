@@ -373,7 +373,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 8
   - October 18
   - [Student presentations](class:08)
-  - [Partial draft](paper:partial-draft)
+  - [Paper first draft](paper:first-draft)
 * - 9
   - October 25
   - [Student presentations](class:09)
@@ -385,7 +385,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 11
   - November 8
   - [Student presentations](class:11)
-  - Paper draft
+  - [Paper second draft](paper:second-draft)
 * - 12
   - November 15
   - [Student presentations](class:12)
@@ -397,7 +397,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 14
   - November 29
   - [Expert panel](class:14)
-  - Final paper
+  - [Paper final draft](paper:final-draft)
 * - 15
   - December 6
   - [Open](class:15)

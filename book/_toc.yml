@@ -44,8 +44,12 @@ chapters:
         title: Assignment 01
       - file: assignments/assignment-02
         title: Assignment 02
-      - file: assignments/partial-draft
-        title: Partial draft
+      - file: assignments/paper-first-draft
+        title: Paper first draft
+      - file: assignments/paper-second-draft
+        title: Paper second draft
+      - file: assignments/paper-final-draft
+        title: Paper final draft
   - file: activities/index
     sections:
       - file: activities/01-activity-practice-feedback
