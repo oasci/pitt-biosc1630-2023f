@@ -44,6 +44,8 @@ chapters:
         title: Assignment 01
       - file: assignments/assignment-02
         title: Assignment 02
+      - file: assignments/partial-draft
+        title: Partial draft
   - file: activities/index
     sections:
       - file: activities/01-activity-practice-feedback
@@ -67,6 +69,7 @@ chapters:
   - file: resources/index
     title: Resources
     sections:
+      - file: resources/paper-format-guidelines
       - file: resources/journals
       - file: resources/scheduling
       - file: resources/comp-bio-topics

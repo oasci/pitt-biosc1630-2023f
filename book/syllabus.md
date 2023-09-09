@@ -336,6 +336,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 
 ```{list-table}
 :header-rows: 1
+:widths: 1, 3, 5, 5
 
 * - Week
   - Date
@@ -351,7 +352,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - [Guided reading](assignment:01)
 * - 3
   - September 13
-  - [Writing](class:03)
+  - [Writing and presenting](class:03)
   -
 * - 4
   - September 20
@@ -372,7 +373,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 8
   - October 18
   - [Student presentations](class:08)
-  - Paper outline
+  - [Partial draft](paper:partial-draft)
 * - 9
   - October 25
   - [Student presentations](class:09)
@@ -396,7 +397,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 14
   - November 29
   - [Expert panel](class:14)
-  - Paper
+  - Final paper
 * - 15
   - December 6
   - [Open](class:15)

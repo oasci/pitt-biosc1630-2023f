@@ -79,7 +79,7 @@ Here is an example of an annotated bibliography.
 
 ## Submission
 
-You may write in a word processer of your choice: [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/word), [Overleaf](https://www.overleaf.com/), [typst](https://typst.app/), [Markdown](https://www.markdownguide.org/), [Google Docs](https://docs.google.com/), [ClickUp](https://clickup.com/), [LibreOffice](https://www.libreoffice.org/), [WPS Office](https://www.wps.com/), etc.
+You may write in a word processor of your choice: [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/word), [Overleaf](https://www.overleaf.com/), [typst](https://typst.app/), [Markdown](https://www.markdownguide.org/), [Google Docs](https://docs.google.com/), [ClickUp](https://clickup.com/), [LibreOffice](https://www.libreoffice.org/), [WPS Office](https://www.wps.com/), etc.
 However, you must submit your assignment as a PDF in [Canvas](https://canvas.pitt.edu/).
 
 ## Formatting
