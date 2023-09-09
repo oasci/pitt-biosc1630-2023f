@@ -17,6 +17,8 @@ sphinx:
     html_last_updated_fmt: "%b %d, %Y at %I:%M %p"
     # https://tzdata.readthedocs.io/en/latest/#
     git_last_updated_timezone: "America/New_York"
+    suppress_warnings:
+      - myst.strikethrough
   extra_extensions:
     - sphinx_last_updated_by_git
 
