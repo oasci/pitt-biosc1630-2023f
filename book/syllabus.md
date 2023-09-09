@@ -138,7 +138,7 @@ Your active engagement in this course holds tremendous value, as our class conve
 Your active participation and consistent attendance enable an enriching learning environment.
 
 ```{important}
-Attending classes virtual via Zoom will not be an option.
+Attending classes virtually will not be an option.
 ```
 
 If you cannot attend a class, it remains vital for you to engage with the materials covered during that session.
@@ -281,20 +281,11 @@ There are a total of 100 points possible for this class.
   - **Total**
   - **20**
 * - **Assignments**
-  - Difficulty paper
-  - 2
+  - [Guided reading](assignment:01)
+  - 5
 * - 
-  - Key points summary
-  - 2
-* - 
-  - Methods review
-  - 2
-* - 
-  - Results discussion
-  - 2
-* - 
-  - Abstract
-  - 2
+  - Scientific journalism
+  - 5
 * - 
   - **Total**
   - **10**
@@ -305,7 +296,7 @@ There are a total of 100 points possible for this class.
   - **Total**
   - **30**
 * - **Paper**
-  - Proposal
+  - [Proposal](assignment:02)
   - 5
 * - 
   - Draft
@@ -419,24 +410,24 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - [Guided reading](assignment:01)
 * - 3
   - September 13
-  - [Methodology](class:03)
+  - [Writing](class:03)
   -
 * - 4
   - September 20
-  - [Results](class:04)
+  - [Methodology](class:04)
   - [Proposal](assignment:02)
 * - 5
   - September 27
   - [Storytelling](class:05)
-  - Results discussion
+  -
 * - 6
   - October 4
-  - [Abstracts](class:06)
-  - Science communication
+  - [Results](class:06)
+  - Scientific journalism
 * - 7
   - October 11
   - [Critical analysis](class:07)
-  - Abstract
+  -
 * - 8
   - October 18
   - [Student presentations](class:08)
@@ -468,7 +459,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 15
   - December 6
   - [Open](class:15)
-  - Course reflection
+  -
 ```
 
 ## Generative AI

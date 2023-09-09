@@ -112,7 +112,7 @@ I will allow you to resubmit the assignment if your submission is unreadable or 
 
 ## Grading
 
-**Points:** 2
+**Points:** 5
 
 The assignment is graded entirely based on the effort you put into addressing the prompts and demonstrating your engagement with the article.
 You will earn full points if you genuinely attempt to comprehend the content and fulfill the requirements.
