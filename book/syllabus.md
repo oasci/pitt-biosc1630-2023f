@@ -39,8 +39,13 @@ The [Dietrich School of Arts & Sciences Writing Institute defines this as](https
 
 > - a course in which students engage with writing substantively throughout the term;
 > - they write and revise throughout the term (not just at the end);
-> - they write a total of 23-25 double-spaced pages (5750-6250 words);
+> - they write a total of 5750--6250 words;
 > - they get feedback from their teacher and their peers.
+
+:::{note}
+Five hundred words is approximately one page single-spaced and two pages double-spaced.
+You are expected to write 11--13 single-spaced pages or 23--25 double-spaced pages in this course.
+:::
 
 ## Philosophy
 
