@@ -29,7 +29,19 @@ a.reference.external:after {
         position: relative;
     }
 
-    div.admonition {
+    div.admonition, div.sd-card, div.sd-card-body {
+        page-break-before: avoid;
         page-break-inside: auto;
     }
+
+    div.sd-card {
+        page-break-inside: auto;
+    }
+
+    div.sd-card-body {
+        page-break-before: avoid;
+        page-break-inside: auto;
+    }
+
+    
 }
