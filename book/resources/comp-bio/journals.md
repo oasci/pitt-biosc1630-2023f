@@ -1,3 +1,6 @@
+<!-- file_identifier: 2aFQwl3vG70WTwD88yYD -->
+<!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
+
 (journals-list)=
 # Scientific journals
 
