@@ -1,4 +1,3 @@
-<!-- file_identifier: 90yH1Il8vBwBWMaOx7A9 -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 (easter-egg)=

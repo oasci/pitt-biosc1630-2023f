@@ -1,4 +1,3 @@
-<!-- file_identifier: cSzZnqLvNBU1Eh7SgU59 -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 (activity:lit-search)=

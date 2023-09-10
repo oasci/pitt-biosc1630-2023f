@@ -1,4 +1,3 @@
-<!-- file_identifier: 9qAqk6Y8DO2DEiEOJU0p -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 (interfaith-holidays)=

@@ -1,4 +1,3 @@
-<!-- file_identifier: G9dt769VrI6JtRi9hgpd -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 (slides:02)=

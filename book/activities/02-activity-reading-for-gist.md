@@ -1,4 +1,3 @@
-<!-- file_identifier: 4dhdIswKBLN47EcsZB1I -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 (activity:read-for-gist)=

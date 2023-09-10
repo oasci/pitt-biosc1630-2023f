@@ -1,4 +1,5 @@
-<!-- file_identifier: a7X5021Kz1GIPtNaHQDG -->
+<!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
+
 # Activities
 
 - [01 - Practice providing feedback](activity:feedback-practice)

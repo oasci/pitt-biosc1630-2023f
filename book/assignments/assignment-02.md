@@ -1,4 +1,3 @@
-<!-- file_identifier: oGQiJJlCRTxkOWXo95Iq -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 (assignment:02)=

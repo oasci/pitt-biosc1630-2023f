@@ -21,8 +21,6 @@ sphinx:
       - myst.strikethrough
   extra_extensions:
     - sphinx_last_updated_by_git
-  local_extensions:
-    dc_metadata: extensions/
 
 execute:
   execute_notebooks: auto

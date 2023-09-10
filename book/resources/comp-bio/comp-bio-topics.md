@@ -1,4 +1,3 @@
-<!-- file_identifier: LBOCLnu3ZYw5qaGlbzuI -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 # Topics in computational biology

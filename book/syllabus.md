@@ -1,4 +1,3 @@
-<!-- file_identifier: LiHRD6WMtOOU8FoTFPsZ -->
 <!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
 
 # Syllabus for BIOSC 1630 <br/> Computational Biology Seminar
