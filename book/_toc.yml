@@ -3,91 +3,114 @@
 
 format: jb-book
 root: index
-chapters:
-  - file: syllabus
-    title: Syllabus
-  - file: classes/index
-    sections:
-      - file: classes/class-01
-        title: Class 01
-      - file: classes/class-02
-        title: Class 02
-      - file: classes/class-03
-        title: Class 03
-      - file: classes/class-04
-        title: Class 04
-      - file: classes/class-05
-        title: Class 05
-      - file: classes/class-06
-        title: Class 06
-      - file: classes/class-07
-        title: Class 07
-      - file: classes/class-08
-        title: Class 08
-      - file: classes/class-09
-        title: Class 09
-      - file: classes/class-10
-        title: Class 10
-      - file: classes/class-11
-        title: Class 11
-      - file: classes/class-12
-        title: Class 12
-      - file: classes/class-13
-        title: Class 13
-      - file: classes/class-14
-        title: Class 14
-      - file: classes/class-15
-        title: Class 15
-  - file: assignments/index
-    sections:
-      - file: assignments/assignment-01
-        title: Assignment 01
-      - file: assignments/assignment-02
-        title: Assignment 02
-      - file: assignments/paper-first-draft
-        title: Paper first draft
-      - file: assignments/paper-second-draft
-        title: Paper second draft
-      - file: assignments/paper-final-draft
-        title: Paper final draft
-  - file: activities/index
-    sections:
-      - file: activities/01-activity-practice-feedback
-        title: 01 - Practice providing feedback
-      - file: activities/01-activity-literature-search
-        title: 01 - Finding literature
-      - file: activities/02-activity-reading-for-gist
-        title: 02 - Reading for gist
-      - file: activities/02-activity-active-reading
-        title: 02 - Active reading
-      - file: activities/02-activity-role-based-analysis
-        title: 02 - Role-based analysis
-  - file: slides/index
-    sections:
-      - file: slides/slides-01
-      - file: slides/slides-02
-  - file: solutions/index
-    sections:
-      - file: solutions/solution-01
-        title: Solution 01
-  - file: resources/index
-    title: Resources
-    sections:
-      - file: resources/paper-format-guidelines
-      - file: resources/journals
-      - file: resources/scheduling
-      - file: resources/comp-bio-topics
-  - file: misc/index
-    title: Miscellaneous
-    sections:
-      - file: misc/getting-to-class
-      - file: misc/drop-in-discussions
-      - file: misc/interfaith-holidays
-      - file: misc/class-time
-      - file: misc/generative-ai-primer
-      - file: misc/easter-egg
-      - file: misc/paper-collection
-  - file: enigma-elites
-    title: Comp Bio Enigma Elites
-  - file: refs
-    title: References
+parts:
+  - chapters:
+    - file: syllabus
+      title: Syllabus
+
+
+  - caption: Classes
+    chapters:
+      - file: lessons/index
+        title: Lessons
+        sections:
+          - file: lessons/lesson-01
+            title: Lesson 01
+          - file: lessons/lesson-02
+            title: Lesson 02
+          - file: lessons/lesson-03
+            title: Lesson 03
+          - file: lessons/lesson-04
+            title: Lesson 04
+          - file: lessons/lesson-05
+            title: Lesson 05
+          - file: lessons/lesson-06
+            title: Lesson 06
+          - file: lessons/lesson-07
+            title: Lesson 07
+          - file: lessons/lesson-08
+            title: Lesson 08
+          - file: lessons/lesson-09
+            title: Lesson 09
+          - file: lessons/lesson-10
+            title: Lesson 10
+          - file: lessons/lesson-11
+            title: Lesson 11
+          - file: lessons/lesson-12
+            title: Lesson 12
+          - file: lessons/lesson-13
+            title: Lesson 13
+          - file: lessons/lesson-14
+            title: Lesson 14
+          - file: lessons/lesson-15
+            title: Lesson 15
+      - file: activities/index
+        sections:
+          - file: activities/01-activity-practice-feedback
+            title: 01 - Practice providing feedback
+          - file: activities/01-activity-literature-search
+            title: 01 - Finding literature
+          - file: activities/02-activity-reading-for-gist
+            title: 02 - Reading for gist
+          - file: activities/02-activity-active-reading
+            title: 02 - Active reading
+          - file: activities/02-activity-role-based-analysis
+            title: 02 - Role-based analysis
+      - file: slides/index
+        sections:
+          - file: slides/slides-01
+          - file: slides/slides-02
+
+
+  - caption: Assignments
+    chapters:
+      - file: assignments/index
+        sections:
+          - file: assignments/assignment-01
+            title: Assignment 01
+          - file: assignments/assignment-02
+            title: Assignment 02
+      - file: assignments/paper/index
+        sections:
+          - file: assignments/paper/paper-format-guidelines
+            title: Format guidelines
+          - file: assignments/paper/paper-first-draft
+            title: Paper first draft
+          - file: assignments/paper/paper-second-draft
+            title: Paper second draft
+          - file: assignments/paper/paper-final-draft
+            title: Paper final draft
+      - file: assignments/solutions/index
+        sections:
+          - file: assignments/solutions/solution-01
+            title: Solution 01
+
+  - caption: Resources
+    chapters:
+      - file: resources/comp-bio/index
+        title: Computational biology
+        sections:
+          - file: resources/comp-bio/journals
+          - file: resources/comp-bio/comp-bio-topics
+      - file: misc/index
+        title: Miscellaneous
+        sections:
+          - file: misc/interfaith-holidays
+          - file: misc/generative-ai-primer
+          - file: misc/paper-collection
+      - file: resources/refs
+        title: References
+
+  - caption: Administration
+    chapters:
+      - file: admin/scheduling
+      - file: admin/getting-to-class
+      - file: admin/drop-in-discussions
+      - file: admin/class-time
+
+  - caption: Easter egg
+    chapters:
+      - file: easter-egg/index
+        title: Info
+      - file: easter-egg/enigma-elites
+        title: Comp Bio Enigma Elites

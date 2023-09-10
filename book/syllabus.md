@@ -342,21 +342,21 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - Date
   - Topic
   - Due
-* - 1
+* - ~~1~~
   - August 30
   - [Introduction](class:01)
   - 
-* - 2
+* - ~~2~~
   - September 6
   - [Reading](class:02)
   - [Guided reading](assignment:01)
 * - 3
   - September 13
-  - [Writing and presenting](class:03)
+  - [Methodology](class:03)
   -
 * - 4
   - September 20
-  - [Methodology](class:04)
+  - [Results](class:04)
   - [Proposal](assignment:02)
 * - 5
   - September 27
@@ -364,11 +364,11 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   -
 * - 6
   - October 4
-  - [Results](class:06)
-  - Scientific journalism
+  - [Critical analysis I](class:06)
+  - 
 * - 7
   - October 11
-  - [Critical analysis](class:07)
+  - [Critical analysis II](class:07)
   -
 * - 8
   - October 18

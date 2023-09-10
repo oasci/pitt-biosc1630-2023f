@@ -33,7 +33,7 @@ In that case, the instructor will bring the entire class a delectable offering o
 
 ## Admission to the "Comp Bio Enigma Elites"
 
-For those who embrace the challenge and emerge victorious, we request your consent to feature your accomplishment on our esteemed Hall of Fame page: [Comp Bio Enigma Elites](enigma-elites).
+For those who embrace the challenge and emerge victorious, we request your consent to feature your accomplishment on our esteemed Hall of Fame page: Comp Bio Enigma Elites.
 Your name and a concise annotation elucidating your approach to cracking the Easter egg shall grace this hall, potentially inspiring others to take up the gauntlet!
 
 ## Hints

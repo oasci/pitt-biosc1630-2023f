@@ -45,9 +45,4 @@ When drafting lesson plans, I sometimes use the following header in my message f
 > I am asking you to refrain from writing any materials that will come with additional questions.
 >
 > I need to prepare a lesson plan.
-> Please give me an outline with expected timings and any materials I should prepare, like presentations, worksheets, activities, questions, and rationales.
-
-Tailor and edit the suggestions to fit your style, values, and objectives.
-
-> Could you please expand and refine these ideas?
-> Then provide an outline for the relevant materials.
+> Please give me with expected timings and any materials I should prepare, like presentations, worksheets, activities, questions, and rationales.
