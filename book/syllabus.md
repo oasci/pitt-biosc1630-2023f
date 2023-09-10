@@ -1,8 +1,4 @@
-<!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
-
 # Syllabus for BIOSC 1630 <br/> Computational Biology Seminar
-
-[//]: # (https://teaching.pitt.edu/resources/syllabus-checklist/)
 
 **Semester:** Fall 2023
 <br>

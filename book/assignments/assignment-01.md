@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD041 MD036 MD024 MD022 -->
-
 (assignment:01)=
 # Assignment 01 - Guided reading
 
