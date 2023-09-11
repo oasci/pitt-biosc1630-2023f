@@ -56,6 +56,8 @@ parts:
             title: 02 - Active reading
           - file: classes/activities/02-activity-role-based-analysis
             title: 02 - Role-based analysis
+          - file: classes/activities/03-activity-method-recommendation
+            title: 03 - Method recommendation
       - file: classes/slides/index
         sections:
           - file: classes/slides/slides-01
