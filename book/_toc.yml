@@ -100,6 +100,7 @@ parts:
           - file: misc/interfaith-holidays
           - file: misc/generative-ai-primer
           - file: misc/paper-collection
+          - file: misc/RAND-shopping-study
       - file: resources/refs
         title: References
 
