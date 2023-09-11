@@ -11,55 +11,55 @@ parts:
 
   - caption: Classes
     chapters:
-      - file: lessons/index
+      - file: classes/lessons/index
         title: Lessons
         sections:
-          - file: lessons/lesson-01
+          - file: classes/lessons/lesson-01
             title: Lesson 01
-          - file: lessons/lesson-02
+          - file: classes/lessons/lesson-02
             title: Lesson 02
-          - file: lessons/lesson-03
+          - file: classes/lessons/lesson-03
             title: Lesson 03
-          - file: lessons/lesson-04
+          - file: classes/lessons/lesson-04
             title: Lesson 04
-          - file: lessons/lesson-05
+          - file: classes/lessons/lesson-05
             title: Lesson 05
-          - file: lessons/lesson-06
+          - file: classes/lessons/lesson-06
             title: Lesson 06
-          - file: lessons/lesson-07
+          - file: classes/lessons/lesson-07
             title: Lesson 07
-          - file: lessons/lesson-08
+          - file: classes/lessons/lesson-08
             title: Lesson 08
-          - file: lessons/lesson-09
+          - file: classes/lessons/lesson-09
             title: Lesson 09
-          - file: lessons/lesson-10
+          - file: classes/lessons/lesson-10
             title: Lesson 10
-          - file: lessons/lesson-11
+          - file: classes/lessons/lesson-11
             title: Lesson 11
-          - file: lessons/lesson-12
+          - file: classes/lessons/lesson-12
             title: Lesson 12
-          - file: lessons/lesson-13
+          - file: classes/lessons/lesson-13
             title: Lesson 13
-          - file: lessons/lesson-14
+          - file: classes/lessons/lesson-14
             title: Lesson 14
-          - file: lessons/lesson-15
+          - file: classes/lessons/lesson-15
             title: Lesson 15
-      - file: activities/index
+      - file: classes/activities/index
         sections:
-          - file: activities/01-activity-practice-feedback
+          - file: classes/activities/01-activity-practice-feedback
             title: 01 - Practice providing feedback
-          - file: activities/01-activity-literature-search
+          - file: classes/activities/01-activity-literature-search
             title: 01 - Finding literature
-          - file: activities/02-activity-reading-for-gist
+          - file: classes/activities/02-activity-reading-for-gist
             title: 02 - Reading for gist
-          - file: activities/02-activity-active-reading
+          - file: classes/activities/02-activity-active-reading
             title: 02 - Active reading
-          - file: activities/02-activity-role-based-analysis
+          - file: classes/activities/02-activity-role-based-analysis
             title: 02 - Role-based analysis
-      - file: slides/index
+      - file: classes/slides/index
         sections:
-          - file: slides/slides-01
-          - file: slides/slides-02
+          - file: classes/slides/slides-01
+          - file: classes/slides/slides-02
 
 
   - caption: Assignments

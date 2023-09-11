@@ -19,21 +19,21 @@ psi.*.clean
 *.bak
 
 # Materials
-book/lessons/lesson-03.md
-book/lessons/lesson-04.md
-book/lessons/lesson-05.md
-book/lessons/lesson-06.md
-book/lessons/lesson-07.md
+book/classes/lessons/lesson-03.md
+book/classes/lessons/lesson-04.md
+book/classes/lessons/lesson-05.md
+book/classes/lessons/lesson-06.md
+book/classes/lessons/lesson-07.md
 book/assignments/solutions/solution-01.md
 book/misc/paper-collection.md
-book/lessons/lesson-08.md
-book/lessons/lesson-09.md
-book/lessons/lesson-10.md
-book/lessons/lesson-11.md
-book/lessons/lesson-12.md
-book/lessons/lesson-13.md
-book/lessons/lesson-14.md
-book/lessons/lesson-15.md
+book/classes/lessons/lesson-08.md
+book/classes/lessons/lesson-09.md
+book/classes/lessons/lesson-10.md
+book/classes/lessons/lesson-11.md
+book/classes/lessons/lesson-12.md
+book/classes/lessons/lesson-13.md
+book/classes/lessons/lesson-14.md
+book/classes/lessons/lesson-15.md
 book/assignments/paper/paper-format-guidelines.md
 book/assignments/paper/paper-first-draft.md
 book/assignments/paper/paper-second-draft.md

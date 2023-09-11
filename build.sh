@@ -12,4 +12,4 @@ git secret reveal -fF 2>&1 || true  # Decrypt all files from the secret to ensur
 
 jupyter-book build ./book
 ./cleanup_printing.py
-cp -rf ./book/slides/pdfs ./book/_build/html/slides/
+cp -rf ./book/classes/slides/pdfs ./book/_build/html/classes/slides/
