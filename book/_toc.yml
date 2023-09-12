@@ -94,6 +94,12 @@ parts:
         sections:
           - file: resources/comp-bio/journals
           - file: resources/comp-bio/comp-bio-topics
+      - file: resources/presenting/index
+        title: Presenting
+        sections:
+          - file: resources/presenting/design-frameworks
+          - file: resources/presenting/effective-strategies
+          - file: resources/presenting/accessibility
       - file: misc/index
         title: Miscellaneous
         sections:
