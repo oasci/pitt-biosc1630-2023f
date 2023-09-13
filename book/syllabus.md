@@ -339,13 +339,13 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - Topic
   - Due
 * - ~~1~~
-  - August 30
-  - [Introduction](class:01)
+  - ~~August 30~~
+  - ~~[Introduction](class:01)~~
   - 
 * - ~~2~~
-  - September 6
-  - [Reading](class:02)
-  - [Guided reading](assignment:01)
+  - ~~September 6~~
+  - ~~[Reading](class:02)~~
+  - ~~[Guided reading](assignment:01)~~
 * - 3
   - September 13
   - [Methodology](class:03)
