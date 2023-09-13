@@ -19,7 +19,6 @@ psi.*.clean
 *.bak
 
 # Materials
-book/classes/lessons/lesson-03.md
 book/classes/lessons/lesson-04.md
 book/classes/lessons/lesson-05.md
 book/classes/lessons/lesson-06.md
@@ -38,4 +37,3 @@ book/assignments/paper/paper-format-guidelines.md
 book/assignments/paper/paper-first-draft.md
 book/assignments/paper/paper-second-draft.md
 book/assignments/paper/paper-final-draft.md
-book/classes/activities/03-activity-method-recommendation.md
