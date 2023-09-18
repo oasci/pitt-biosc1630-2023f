@@ -29,7 +29,7 @@ Students will present research articles orally and complete a series of writing 
 ## Open education
 
 We value accessible, open education that should be available to anyone who seeks it.
-Thus, all materials for this course are released under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC-BY-SA-4.0) license.
+Thus, all materials for this course are released under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) license.
 
 ## Feedback and reflection
 
