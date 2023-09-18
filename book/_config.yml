@@ -19,7 +19,7 @@ sphinx:
     git_last_updated_timezone: "America/New_York"
     suppress_warnings:
       - myst.strikethrough
-    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'biosc1630-2023-fall.aalexmmaldonado.com'}] ]
+    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'aalexmmaldonado.com/biosc1630-2023-fall'}] ]
   extra_extensions:
     - sphinx_last_updated_by_git
 
