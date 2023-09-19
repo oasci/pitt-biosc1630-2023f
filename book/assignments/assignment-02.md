@@ -57,7 +57,7 @@ This rationale should include
 
 ### References
 
-Include an annotated reference list of at least **two** primary literature references for each selected article.
+Include an annotated reference list of at least **two** primary literature references from each selected article.
 
 :::{tip}
 Here is an example of an annotated bibliography.
