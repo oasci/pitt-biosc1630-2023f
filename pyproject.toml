@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "biosc1630-2023-fall"
+version = "2023.09"
+description = ""
+authors = ["Alex M. Maldonado <aalexmmaldonado@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter-book = "^0.15.1"
+sphinx-last-updated-by-git = "^0.3.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

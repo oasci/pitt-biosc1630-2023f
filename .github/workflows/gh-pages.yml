@@ -28,9 +28,7 @@ jobs:
       # Build the book.
       # Need to override timezone environment variable
       - name: Build the Jupyter book
-        run: |
-          export TZ="UTC"
-          ./build.sh
+        run: make book
 
       # Deploy the book's HTML to gh-pages branch
       - name: GitHub Pages action
