@@ -1,3 +1,10 @@
+SHELL := /usr/bin/env bash
+PYTHON := python3
+PYTHONPATH := `pwd`
+
+.PHONY: poetry-download
+poetry-download:
+	curl -sSL https://install.python-poetry.org | $(PYTHON) -
 
 .PHONY: book
 book:
