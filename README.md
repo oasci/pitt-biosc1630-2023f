@@ -38,30 +38,31 @@ After making an account, you can annotate using the "Annotation sidebar" on the 
 
 ## Building the website
 
-This website is built using the [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) framework.
+This website is built using the [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) framework and [poetry](https://python-poetry.org/) to manage the Python environment.
 
-First, you can create a Python virtual environment with `python3.11 -m venv ~/venvs/biosc1630-2023-fall`.
-You can install Python 3.11 on Linux using `sudo apt-get install python3.11 python3.11-venv`.
+If you do not have `poetry` installed you can so by activating your preferred Python environment and running the following command:
+
+```bash
+make poetry-download
+```
+
+Now we have to setup the virtual environment.
 Technically, other versions of Python3 should work, but I have not validated it.
-Activate the new virtual environment with `source ~/venvs/biosc1630-2023-fall/bin/activate`.
-You can check that it is using the correct Python version.
 
 ```bash
-$ which python
-/home/alex/venvs/biosc1630-2023-fall/bin/python
+poetry config virtualenvs.in-project true
+poetry env use python3.11
+make pre-commit-install
 ```
 
-Use `pip install -r requirements.txt` from the [repository](https://github.com/aalexmmaldonado/biosc1630-2023-fall) to recreate the exact environment used to build the website.
-Build the website by running the `build.sh` script after cloning the [repository](https://github.com/aalexmmaldonado/biosc1630-2023-fall).
+To build the website:
+
+```bash
+make install
+make book
+```
+
 You can now view the website by opening `book/_build/html/index.html`.
-
-Once you are finished you can `deactivate` the virtual environment.
-
-```bash
-$ deactivate
-$ which python
-/home/alex/miniconda3/bin/python
-```
 
 ## Local copy
 

@@ -6,6 +6,15 @@ PYTHONPATH := `pwd`
 poetry-download:
 	curl -sSL https://install.python-poetry.org | $(PYTHON) -
 
+.PHONY: install
+install:
+	poetry lock --no-interaction
+	poetry install --no-interaction
+
+.PHONY: pre-commit-install
+pre-commit-install:
+	poetry run pre-commit install
+
 .PHONY: book
 book:
 	set -e
