@@ -113,7 +113,7 @@ parts:
 
   - caption: Administration
     chapters:
-      - file: admin/scheduling
+      - file: admin/sorting_hat
       - file: admin/getting-to-class
       - file: admin/drop-in-discussions
       - file: admin/class-time
