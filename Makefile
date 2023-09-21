@@ -15,6 +15,10 @@ install:
 pre-commit-install:
 	poetry run pre-commit install
 
+.PHONY: validate
+validate:
+	pre-commit run --all-files
+
 .PHONY: book
 book:
 	set -e

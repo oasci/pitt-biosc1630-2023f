@@ -62,6 +62,23 @@ make book
 
 You can now view the website by opening `book/_build/html/index.html`.
 
+## Contributing
+
+All contributions, corrections, and suggestions are welcome!
+
+We use [pre-commits](https://pre-commit.com/) to ensure uniform formatting.
+These have to be installed first.
+
+```bash
+make pre-commit-install
+```
+
+Before committing and pushing, run the following command a couple of times to ensure all checks pass.
+
+```bash
+make validate
+```
+
 ## Local copy
 
 You can also get a local copy of this website.

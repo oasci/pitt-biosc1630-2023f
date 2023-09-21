@@ -129,4 +129,3 @@ Epigenetic regulation plays a crucial role in gene expression. Epigenetic change
 For example, DNA methylation can repress gene expression by preventing the binding of transcription factors to their target sites.
 Histone modifications can also affect gene expression by altering chromatin structure and accessibility.
 Overall, epigenetic regulation is an important mechanism by which cells can control gene expression without altering the underlying DNA sequence.
-

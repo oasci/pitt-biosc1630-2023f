@@ -121,7 +121,7 @@ Available only online, this is an essential journal for scientists and students 
 [**Scope**](https://www.sciencedirect.com/journal/computational-biology-and-chemistry/about/aims-and-scope):
 *Computational Biology and Chemistry* publishes original research papers and review articles in all areas of computational life sciences.
 High quality research contributions with a major computational component in the areas of nucleic acid and protein sequence research, molecular evolution, molecular genetics (functional genomics and proteomics), theory and practice of either biology-specific or chemical-biology-specific modeling, and structural biology of nucleic acids and proteins are particularly welcome.
-Exceptionally high quality research work in bioinformatics, systems biology, ecology, computational pharmacology, metabolism, biomedical engineering, epidemiology, and statistical genetics will also be considered. 
+Exceptionally high quality research work in bioinformatics, systems biology, ecology, computational pharmacology, metabolism, biomedical engineering, epidemiology, and statistical genetics will also be considered.
 ````
 
 ## Biology
@@ -161,7 +161,7 @@ We will consider the application of any method, experimental or computational, a
 [**Scope**](https://www.cell.com/cell/aims):
 *Cell* publishes findings of unusual significance in any area of experimental biology, including but not limited to cell biology, molecular biology, neuroscience, immunology, virology and microbiology, cancer, human genetics, systems biology, signaling, and disease mechanisms and therapeutics.
 The basic criterion for considering papers is whether the results provide significant conceptual advances into, or raise provocative questions and hypotheses regarding, an interesting and important biological question.
-In addition to primary research articles in four formats, *Cell* features review and opinion articles on recent research advances and issues of interest to its broad readership in the leading edge section. 
+In addition to primary research articles in four formats, *Cell* features review and opinion articles on recent research advances and issues of interest to its broad readership in the leading edge section.
 ````
 
 ````{card}
@@ -218,7 +218,7 @@ Research in the journal focuses on aspects of chemical neurobiology and bio-neur
 [**Scope**](https://pubs.acs.org/page/bichaw/about.html):
 *Biochemistry* provides an international forum for publishing exceptional, rigorous, high-impact research across all of biological chemistry.
 This broad scope includes studies on the chemical, physical, mechanistic, and/or structural basis of biological or cell function, and encompasses the fields of chemical biology, synthetic biology, disease biology, cell biology, nucleic acid biology, neuroscience, structural biology, and biophysics.
-In addition to traditional Research Articles, *Biochemistry* also publishes Communications, Viewpoints, and Perspectives, as well as From the Bench articles that report new methods of particular interest to the biological chemistry community. 
+In addition to traditional Research Articles, *Biochemistry* also publishes Communications, Viewpoints, and Perspectives, as well as From the Bench articles that report new methods of particular interest to the biological chemistry community.
 ````
 
 ## General

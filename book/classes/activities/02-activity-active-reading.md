@@ -137,4 +137,4 @@ For [10.1021/acs.jcim.3c00945](https://doi.org/10.1021/acs.jcim.3c00945):
 > The approach integrates mechanistic insights and pharmacokinetic considerations, allowing for a more comprehensive assessment of compound toxicity.
 > Through the use of low-level models and quantitative in vitro to in vivo extrapolation (QIVIVE), the method demonstrates superior sensitivity and predictive quality compared to traditional direct QSAR modeling.
 > Importantly, this approach proves its robustness even when predicting structurally diverse compounds, emphasizing its potential for early drug development and safety assessment.
-> The study's innovative framework holds promise for advancing computational biology and supporting next-generation risk assessments. 
+> The study's innovative framework holds promise for advancing computational biology and supporting next-generation risk assessments.

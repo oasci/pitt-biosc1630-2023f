@@ -52,7 +52,6 @@ Technically, other versions of Python3 should work, but I have not validated it.
 ```bash
 poetry config virtualenvs.in-project true
 poetry env use python3.11
-make pre-commit-install
 ```
 
 To build the website:
@@ -63,6 +62,23 @@ make book
 ```
 
 You can now view the website by opening `book/_build/html/index.html`.
+
+## Contributing
+
+All contributions, corrections, and suggestions are welcome!
+
+We use [pre-commits](https://pre-commit.com/) to ensure uniform formatting.
+These have to be installed first.
+
+```bash
+make pre-commit-install
+```
+
+Before committing and pushing, run the following command a couple of times to ensure all checks pass.
+
+```bash
+make validate
+```
 
 ## Local copy
 

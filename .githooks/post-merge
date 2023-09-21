@@ -8,7 +8,7 @@ repo_root=$(git rev-parse --show-toplevel)
 secret_files=$(find $repo_root -type f -name "*.secret")
 for secret_file in $secret_files; do
     decrypted_file="${secret_file%.secret}"  # removes .secret
-    
+
     # Create backup file of decrypted file in case it exists.
     if [ -f "$decrypted_file" ]; then
         backup_path="$decrypted_file.bak"

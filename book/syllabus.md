@@ -214,41 +214,41 @@ There are a total of 100 points possible for this class.
 * - **Activities**
   - Participation
   - 20
-* - 
+* -
   - **Total**
   - **20**
 * - **Assignments**
   - [Guided reading](assignment:01)
   - 5
-* - 
+* -
   - Scientific journalism
   - 5
-* - 
+* -
   - **Total**
   - **10**
 * - **Presentation**
   - Presentation
   - 30
-* - 
+* -
   - **Total**
   - **30**
 * - **Paper**
   - [Proposal](assignment:02)
   - 5
-* - 
+* -
   - Draft
   - 10
-* - 
+* -
   - Peer review
   - 5
-* - 
+* -
   - Final draft
   - 20
-* - 
+* -
   - **Total**
   - **40**
 * - **Extra credit**
-  - 
+  -
   - **5**
 ```
 
@@ -341,7 +341,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - ~~1~~
   - ~~August 30~~
   - ~~[Introduction](class:01)~~
-  - 
+  -
 * - ~~2~~
   - ~~September 6~~
   - ~~[Reading](class:02)~~
@@ -361,7 +361,7 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 6
   - October 4
   - [Critical analysis I](class:06)
-  - 
+  -
 * - 7
   - October 11
   - [Critical analysis II](class:07)
@@ -373,11 +373,11 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 9
   - October 25
   - [Student presentations](class:09)
-  - 
+  -
 * - 10
   - November 1
   - [Student presentations](class:10)
-  - 
+  -
 * - 11
   - November 8
   - [Student presentations](class:11)
@@ -385,11 +385,11 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
 * - 12
   - November 15
   - [Student presentations](class:12)
-  - 
+  -
 * - 13
   - November 22
   - [Reproducibility](class:13)
-  - 
+  -
 * - 14
   - November 29
   - [Expert panel](class:14)

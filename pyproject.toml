@@ -10,6 +10,13 @@ license = "CC BY-SA 4.0"
 python = "^3.9"
 jupyter-book = "^0.15.1"
 sphinx-last-updated-by-git = "^0.3.6"
+sphinx-book-theme = "^1.0.1"
+myst-nb = "^0.17.2"
+tzdata = "^2023.3"
+pre-commit = "^3.4.0"
+linkify-it-py = "^2.0.2"
+pydata-sphinx-theme = "^0.14.1"
+sphinx = "^5.0.2"
 
 
 [build-system]
