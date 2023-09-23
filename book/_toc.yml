@@ -95,6 +95,10 @@ parts:
         sections:
           - file: resources/comp-bio/journals
           - file: resources/comp-bio/comp-bio-topics
+      - file: resources/writing/index
+        title: Writing
+        sections:
+          - file: resources/writing/annotation-format
       - file: resources/presenting/index
         title: Presenting
         sections:
