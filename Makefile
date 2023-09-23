@@ -19,6 +19,10 @@ pre-commit-install:
 validate:
 	pre-commit run --all-files
 
+.PHONY: open-book
+open-book:
+	xdg-open ./book/_build/html/index.html 2>/dev/null
+
 .PHONY: book
 book:
 	set -e
