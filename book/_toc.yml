@@ -60,13 +60,14 @@ parts:
             title: 03 - Method recommendation
           - file: classes/activities/04-figure-explanations
             title: 04 - Figure explanations
-          - file: classes/activities/05-ai-paraphrasing
-            title: 05 - AI paraphrasing
+          - file: classes/activities/05-ai-storytelling
+            title: 05 - AI storytelling
       - file: classes/slides/index
         sections:
           - file: classes/slides/slides-01
           - file: classes/slides/slides-02
           - file: classes/slides/slides-03
+          - file: classes/slides/slides-05
 
 
   - caption: Assignments
