@@ -110,6 +110,7 @@ parts:
           - file: resources/presenting/design-frameworks
           - file: resources/presenting/effective-strategies
           - file: resources/presenting/accessibility
+          - file: resources/presenting/storytelling
       - file: misc/index
         title: Miscellaneous
         sections:
