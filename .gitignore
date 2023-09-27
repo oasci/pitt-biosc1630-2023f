@@ -20,6 +20,7 @@ psi.*.clean
 *.bak
 
 # Materials
+book/admin/sorting_info.yml
 book/classes/lessons/lesson-04.md
 book/classes/lessons/lesson-05.md
 book/classes/lessons/lesson-06.md
@@ -39,8 +40,5 @@ book/assignments/paper/paper-first-draft.md
 book/assignments/paper/paper-second-draft.md
 book/assignments/paper/paper-final-draft.md
 book/classes/activities/04-figure-explanations.md
-book/classes/activities/05-ai-storytelling.md
 book/classes/activities/05-ai-storytelling-chatgpt-answers.md
 book/classes/activities/05-ai-storytelling-ai-summaries.md
-book/admin/sorting_info.yml
-book/classes/activities/files/biosc1630-class05-chatgpt-plagarism.pdf
