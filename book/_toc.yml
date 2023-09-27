@@ -58,6 +58,10 @@ parts:
             title: 02 - Role-based analysis
           - file: classes/activities/03-activity-method-recommendation
             title: 03 - Method recommendation
+          - file: classes/activities/04-figure-explanations
+            title: 04 - Figure explanations
+          - file: classes/activities/05-ai-paraphrasing
+            title: 05 - AI paraphrasing
       - file: classes/slides/index
         sections:
           - file: classes/slides/slides-01

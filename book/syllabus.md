@@ -350,10 +350,10 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - ~~September 13~~
   - ~~[Methodology](class:03)~~
   -
-* - 4
-  - September 20
-  - [Results](class:04)
-  - [Proposal](assignment:02)
+* - ~~4~~
+  - ~~September 20~~
+  - ~~[Results](class:04)~~
+  - ~~[Proposal](assignment:02)~~
 * - 5
   - September 27
   - [Storytelling](class:05)
