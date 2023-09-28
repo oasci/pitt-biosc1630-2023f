@@ -1,7 +1,7 @@
 (assignment:presentation:rubric)=
 # Presentation rubric
 
-This rubric is how student presentations will be evaluated by the instructor.
+This rubric is how the instructor will evaluate student presentations.
 Each criterion has four ratings:
 
 - **Satisfactory:**
@@ -35,15 +35,6 @@ The following categories also represent the recommended general flow of your pre
     TODO:
   - **Absent** (0.0 points):
     TODO:
-- Current understanding (__ points)
-  - **Satisfactory:** (__  points):
-    TODO:
-  - **Room for improvement** (__  points):
-    TODO:
-  - **Insufficient** (__ points):
-    TODO:
-  - **Absent** (0.0 points):
-    TODO:
 - Significance (__ points)
   - **Satisfactory:** (__  points):
     TODO:
@@ -56,7 +47,16 @@ The following categories also represent the recommended general flow of your pre
 
 ## Methods
 
-- Limitations (__ points)
+- Method explanations (__ points)
+  - **Satisfactory:** (__  points):
+    TODO:
+  - **Room for improvement** (__  points):
+    TODO:
+  - **Insufficient** (__ points):
+    TODO:
+  - **Absent** (0.0 points):
+    TODO:
+- Limitations and biases (__ points)
   - **Satisfactory:** (__  points):
     TODO:
   - **Room for improvement** (__  points):
@@ -68,6 +68,24 @@ The following categories also represent the recommended general flow of your pre
 
 ## Results
 
+- Assertion-evidence slides (__ points)
+  - **Satisfactory:** (__  points):
+    TODO:
+  - **Room for improvement** (__  points):
+    TODO:
+  - **Insufficient** (__ points):
+    TODO:
+  - **Absent** (0.0 points):
+    TODO:
+- Connection to motivation (__ points)
+  - **Satisfactory:** (__  points):
+    TODO:
+  - **Room for improvement** (__  points):
+    TODO:
+  - **Insufficient** (__ points):
+    TODO:
+  - **Absent** (0.0 points):
+    TODO:
 - Major findings (__ points)
   - **Satisfactory:** (__  points):
     TODO:
@@ -80,7 +98,7 @@ The following categories also represent the recommended general flow of your pre
 
 ## Outcomes
 
-- Future directions (__ points)
+- Implications/significance (__ points)
   - **Satisfactory:** (__  points):
     TODO:
   - **Room for improvement** (__  points):
