@@ -88,6 +88,10 @@ parts:
             title: Paper second draft
           - file: assignments/paper/paper-final-draft
             title: Paper final draft
+      - file: assignments/presentation/index
+        sections:
+          - file: assignments/presentation/rubric
+            title: Rubric
       - file: assignments/solutions/index
         sections:
           - file: assignments/solutions/solution-01

@@ -39,7 +39,7 @@ Each of your proposed articles need to meet the following criteria:
 - Has been cited at least two times according to [Google Scholar](https://scholar.google.com/).
 
 :::{attention}
-Remember that your review paper will be between 7 and 9 pages, and your presentation is for 20 minutes.
+Remember that your review paper will be between 7 and 9 pages, and your presentation is for 30 minutes.
 Ensure that your articles have enough content, background, results, and future work to talk about.
 :::
 

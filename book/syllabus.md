@@ -193,7 +193,7 @@ More information will be provided during the semester.
 
 #### Presentation
 
-Students are expected to prepare, practice, and give a 20-minute presentation that explains and contextualizes their paper to the class.
+Students are expected to prepare, practice, and give a 30-minute presentation that explains and contextualizes their paper to the class.
 
 #### Paper
 
