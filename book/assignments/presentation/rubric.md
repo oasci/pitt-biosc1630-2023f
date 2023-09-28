@@ -121,11 +121,11 @@ The following categories also represent the recommended general flow of your pre
 
 - Timing (__ points)
   - **Satisfactory:** (__  points):
-    Within 27 to 33 minutes.
+    Within 27 to 31 minutes.
   - **Room for improvement** (__  points):
-    Less than 27 or more than 33 minutes.
+    Less than 27 or more than 31 minutes.
   - **Insufficient** (__ points):
-    Less than 20 or more than 40 minutes.
+    Less than 20 or more than 32 minutes.
   - **Absent** (0.0 points):
     Zero slides.
 - Questions (__ points)
