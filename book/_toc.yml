@@ -107,6 +107,7 @@ parts:
       - file: resources/writing/index
         title: Writing
         sections:
+          - file: resources/writing/cars-introduction-model
           - file: resources/writing/annotation-format
       - file: resources/presenting/index
         title: Presenting

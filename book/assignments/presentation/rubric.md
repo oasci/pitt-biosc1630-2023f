@@ -7,7 +7,7 @@ Each criterion has four ratings:
 - **Satisfactory:**
   This rating indicates that the work meets the acceptable standards.
 - **Room for improvement:**
-  The work could benefit from further refinement, additional details, or improved execution.
+  The work would benefit from some refinement, additional details, or improved execution.
 - **Insufficient:**
   The work does not meet the basic requirements and requires substantial revisions or corrections.
 - **Absent:**
