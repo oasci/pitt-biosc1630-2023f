@@ -195,11 +195,16 @@ More information will be provided during the semester.
 
 Students are expected to prepare, practice, and give a 30-minute presentation that explains and contextualizes their paper to the class.
 
-#### Paper
+#### [Paper](assignment:paper)
 
-In parallel, you will write a paper centered on the same scientific article as your presentation.
-Using at least two additional primary literature articles will put it into context.
-You will be expected to include in your paper (7--9 pages, 1.5 spacing, 12-point font, 1" margins) a significant background about the biological and computational relevance, the current state of knowledge about the topic, a discussion of critical experiments leading to our understanding, and your suggestions for future work.
+In parallel, you will write a paper (7--9 pages, 1.5 spacing, 1” margins, 12-point font) centered on the same scientific article as your presentation.
+Two other primary literature articles will be used to contextualize the focus article.
+The review will include
+
+- significant background about the computational and biological questions being investigated,
+- the current state of knowledge about the topic,
+- a discussion of critical experiments leading to our understanding,
+- and suggestions for future work.
 
 ### Distribution
 
