@@ -226,13 +226,10 @@ There are a total of 100 points possible for this class.
   - [Guided reading](assignment:01)
   - 5
 * -
-  - Scientific journalism
-  - 5
-* -
   - **Total**
-  - **10**
+  - **5**
 * - **Presentation**
-  - Presentation
+  - [Presentation](assignment:presentation:rubric)
   - 30
 * -
   - **Total**
@@ -241,17 +238,17 @@ There are a total of 100 points possible for this class.
   - [Proposal](assignment:02)
   - 5
 * -
-  - Draft
-  - 10
+  - [First draft](paper:first-draft)
+  - 7
 * -
-  - Peer review
-  - 5
+  - Second draft
+  - 13
 * -
   - Final draft
   - 20
 * -
   - **Total**
-  - **40**
+  - **45**
 * - **Extra credit**
   -
   - **5**
@@ -359,9 +356,9 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - ~~September 20~~
   - ~~[Results](class:04)~~
   - ~~[Proposal](assignment:02)~~
-* - 5
-  - September 27
-  - [Storytelling](class:05)
+* - ~~5~~
+  - ~~September 27~~
+  - ~~[Storytelling](class:05)~~
   -
 * - 6
   - October 4

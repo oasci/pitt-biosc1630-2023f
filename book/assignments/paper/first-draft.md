@@ -1,8 +1,13 @@
 (paper:first-draft)=
-# Paper first draft
+# First draft
 
 <p style="text-align: center;">
-    <strong>Due</strong></a>: October 18, 2023 by 1:00 p.m.
+    <object hspace="50">
+        <strong>Due</strong></a>: October 18, 2023 by 1:00 p.m.
+    </object>
+    <object hspace="50">
+        <strong>Points</strong></a>: 7
+    </object>
 </p>
 
 :::{note}

@@ -80,14 +80,14 @@ parts:
             title: Assignment 02
       - file: assignments/paper/index
         sections:
-          - file: assignments/paper/paper-format-guidelines
+          - file: assignments/paper/format-guidelines
             title: Format guidelines
-          - file: assignments/paper/paper-first-draft
-            title: Paper first draft
-          - file: assignments/paper/paper-second-draft
-            title: Paper second draft
-          - file: assignments/paper/paper-final-draft
-            title: Paper final draft
+          - file: assignments/paper/first-draft
+            title: First draft
+          - file: assignments/paper/second-draft
+            title: Second draft
+          - file: assignments/paper/final-draft
+            title: Final draft
       - file: assignments/presentation/index
         sections:
           - file: assignments/presentation/rubric
