@@ -17,7 +17,7 @@ pre-commit-install:
 
 .PHONY: validate
 validate:
-	pre-commit run --all-files
+	poetry pre-commit run --all-files
 
 .PHONY: open-book
 open-book:
