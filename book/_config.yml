@@ -22,6 +22,9 @@ sphinx:
     html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'aalexmmaldonado.com/biosc1630-2023-fall'}] ]
     # From https://github.com/mgeier/sphinx-last-updated-by-git/issues/38
     git_untracked_show_sourcelink: true
+    numfig_format:
+      figure: null
+      table: null
   extra_extensions:
     - sphinx_last_updated_by_git
 

@@ -92,6 +92,10 @@ parts:
         sections:
           - file: assignments/presentation/rubric
             title: Rubric
+      - file: assignments/examples/index
+        sections:
+          - file: assignments/examples/article
+            title: Selected article
       - file: assignments/solutions/index
         sections:
           - file: assignments/solutions/solution-01
