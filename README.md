@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/aalexmmaldonado/reptar/blob/main/biosc1630-2023-fall" target="_blank">
+    <a href="https://github.com/aalexmmaldonado/biosc1630-2023-fall/blob/main/LICENSE" target="_blank">
         <img src="https://img.shields.io/github/license/aalexmmaldonado/biosc1630-2023-fall" alt="License">
     </a>
     <a href="https://github.com/aalexmmaldonado/biosc1630-2023-fall" target="_blank">
