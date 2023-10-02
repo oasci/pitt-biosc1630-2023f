@@ -1,6 +1,14 @@
 (examples:article)=
 # [Integrating diverse layers of omic data to identify novel drug targets in *Listeria monocytogenes*](https://www.frontiersin.org/articles/10.3389/fddsv.2022.969415/full)
 
+**Authors:** Miranda Palumbo, Ezequiel Sosa Florencia Castello, Gustavo Schottlender, Federico Serral, Adrián Turjanski, María Mercedes Palomino, Darío Fernández Do Porto
+
+**Date:** 23 September 2022
+
+**Journal:** [Frontiers in Drug Discovery](https://www.frontiersin.org/journals/drug-discovery)
+
+**DOI:** [10.3389/fddsv.2022.969415](https://doi.org/10.3389/fddsv.2022.969415)
+
 ## Abstract
 
 *Listeria monocytogenes* (Lm) is a Gram-positive *bacillus* responsible for listeriosis in humans.
