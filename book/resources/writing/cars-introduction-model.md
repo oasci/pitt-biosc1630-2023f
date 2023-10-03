@@ -1,10 +1,17 @@
 (cars-introduction)=
 # CARS introduction model
 
-The Create a Research Space (CARS) model, developed by John Swales, defines a strategic approach to writing introductions.
-Introductions must capture the research's essence while establishing significance within the broader academic landscape.
+Introductions must capture the research's essence while establishing significance within the broader scientific landscape.
+The Create a Research Space (CARS) model, developed by [John Swales](https://lsa.umich.edu/linguistics/people/faculty/professors-emeriti/jmswales.html), defines a strategic approach to writing introductions.
 A CARS introduction is a well-crafted roadmap that introduces the topic, establishes its relevance, positions it within existing research, and sets the stage for your unique contribution.
 
+It is broken into three moves discussed below.
+
+- [Move 1: Establishing a territory](cars-introduction:move-1)
+- [Move 2: Defining your niche](cars-introduction:move-2)
+- [Move 3: Occupying the niche](cars-introduction:move-3)
+
+(cars-introduction:move-1)=
 ## Move 1: Establishing a territory
 
 In the research process, writers establish the significance of their chosen topic by considering its relevance within the specific context of their time, encompassing political, social, and historical dimensions.
@@ -29,6 +36,7 @@ Now, the introduction should transition into demonstrating the topic's relevance
 
 To bolster the foundation you've laid, it's advisable to refer to previous research conducted within the field. This not only substantiates your understanding of the subject but also connects your work to the broader scholarly conversation.
 
+(cars-introduction:move-2)=
 ## Move 2: Defining your niche
 
 In the process of academic writing, authors highlight two key aspects: first, they identify gaps or deficiencies in existing research, and second, they emphasize the necessity for further exploration or validation. Having gained a comprehensive understanding of the ongoing scholarly conversation in their field, writers discern areas where previous work may fall short or require expansion. They actively engage in the academic discourse by articulating these limitations or research needs, thus contributing to the refinement and evolution of the broader body of knowledge on their chosen topic.
@@ -45,11 +53,12 @@ Alternatively, you can establish your niche by identifying a deficiency in prior
 
 Another option for carving out your niche is to propose building upon existing research. Acknowledge the conclusions drawn by previous scholars and then use a connector statement to bridge it with your own work. This demonstrates your commitment to extending the research tradition within the field.
 
+(cars-introduction:move-3)=
 ## Move 3: Occupying the niche
 
 Writers show how their work resolves (or, in the case of a proposal, will resolve) the gap, shortcoming, or limitation in existing work or that it successfully extends or verifies past research.
 
-Imagine that you now have everyone’s attention, and that you must explain to fellow scholars how your ideas will add or move the conversation forward.
+Imagine that you now have everyone's attention, and that you must explain to fellow scholars how your ideas will add or move the conversation forward.
 
 ### Outlining Objectives
 
