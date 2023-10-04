@@ -360,9 +360,9 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - ~~September 27~~
   - ~~[Storytelling](class:05)~~
   -
-* - 6
-  - October 4
-  - [Critical analysis of methods](class:06)
+* - ~~6~~
+  - ~~October 4~~
+  - ~~[Critical analysis of methods](class:06)~~
   -
 * - 7
   - October 11
