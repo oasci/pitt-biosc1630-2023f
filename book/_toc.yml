@@ -62,6 +62,10 @@ parts:
             title: 04 - Figure explanations
           - file: classes/activities/05-ai-storytelling
             title: 05 - AI storytelling
+          - file: classes/activities/06-introduction-moves
+            title: 06 - Introduction moves
+          - file: classes/activities/06-treat-critical-analysis
+            title: 06 - Treat critical analysis
       - file: classes/slides/index
         sections:
           - file: classes/slides/slides-01
