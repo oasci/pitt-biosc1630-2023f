@@ -111,7 +111,7 @@ The following sentences are examples of the phrases used to explain strengths an
 
 > More scientific evidence must be presented to support the premises of this theory.
 
-> One of the limitations with this theory is that it does not explain why ...
+> One of the limitations of this theory is that it does not explain why ...
 
 > A significant strength of this model is that it takes into account ...
 
@@ -139,7 +139,7 @@ Critical analysis examples of concepts
 
 > Putting forth a very general definition of motivation means that it is possible that any behavior could be included.
 
-> The concept of global education lacks clarity, is imprecisely defined and is overly complex.
+> The concept of global education needs more clarity, is imprecisely defined, and is overly complex.
 
 > Some have questioned the usefulness of resilience as a concept because it has been used so often and in many contexts.
 
