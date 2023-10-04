@@ -362,11 +362,11 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   -
 * - 6
   - October 4
-  - [Critical analysis I](class:06)
+  - [Critical analysis of methods](class:06)
   -
 * - 7
   - October 11
-  - [Critical analysis II](class:07)
+  - [Critical analysis of results](class:07)
   -
 * - 8
   - October 18
