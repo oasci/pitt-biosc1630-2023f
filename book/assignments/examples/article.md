@@ -9,6 +9,7 @@
 
 **DOI:** [10.3389/fddsv.2022.969415](https://doi.org/10.3389/fddsv.2022.969415)
 
+(examples:article:abstract)=
 ## Abstract
 
 *Listeria monocytogenes* (Lm) is a Gram-positive *bacillus* responsible for listeriosis in humans.
@@ -26,6 +27,7 @@ This set of target proteins participates in key metabolic processes such as fatt
 Collectively, our results point towards novel targets for the control of Lm and related bacteria.
 We invite researchers working in the field of drug discovery to follow up experimentally on our revealed targets.
 
+(examples:article:introduction)=
 ## Introduction
 
 *Listeria monocytogenes* (Lm) is a short, motile, non-sporulated, and Gram-positive *bacillus* responsible for listeriosis in humans.
@@ -60,6 +62,7 @@ Here, we report the application of a multidimensional data integration strategy 
 Combining multilayers of genomic-scale information of Lm, which included genomic, transcriptomic, metabolic, and protein structural data sources, we were able to delineate candidate proteins with features that are relevant to target selection in Lm and related pathogens.
 We expect that our results will be particularly useful to accelerate the initial steps of drug discovery through the identification of attractive targets.
 
+(examples:article:methods)=
 ## Materials and methods
 
 ### Generation of structural homology-based models
@@ -159,6 +162,7 @@ Eq. {eq}`eq2` incorporates expression data, where Intestine+Blood+Intracellular 
 SF = \frac{CP + C + C_v - GM}{4} + \frac{Intestine + Blood + Intracellular}{3}
 :::
 
+(examples:article:results)=
 ## Results and discussion
 
 All results are organized with the following scheme.
@@ -359,6 +363,7 @@ Overexpression of enzymes involved in amino acids biosynthesis during intracellu
 Moreover, experimental data have shown that *L. monocytogenes* amino acid metabolic mutants (*ΔargD*, *ΔhisC*, and *ΔilvC*) grow less efficiently in macrophage cells ([Lobel et al., 2012](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002887)).
 In this respect, our analysis has provided other interesting targets to be further investigated that include expression, essentiality, and druggability data ([Table 3](example:article:tab3)).
 
+(examples:article:conclusions)=
 ## Conclusion
 
 In this work, we developed and applied an integrative analysis framework for the prioritization of protein targets in *L. monocytogenes*.

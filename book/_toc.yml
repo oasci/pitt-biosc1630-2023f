@@ -66,6 +66,8 @@ parts:
             title: 06 - Introduction moves
           - file: classes/activities/06-treat-critical-analysis
             title: 06 - Treat critical analysis
+          - file: classes/activities/06-critical-analysis-methods
+            title: 06 - Critical analysis methods
       - file: classes/slides/index
         sections:
           - file: classes/slides/slides-01
