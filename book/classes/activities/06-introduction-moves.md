@@ -32,21 +32,21 @@ Individually read the [introduction](examples:article:introduction) of the paper
 
 **Duration:** 15 minutes
 
-Now, discuss with your group the following questions concerning the [CARS introduction model](cars-introduction).
+Now, discuss the following questions concerning the [CARS introduction model](cars-introduction) with your group.
 (Be prepared to share!)
 
 - How would you describe the territory this article is trying to fill?
-- How do the authors establish relevance of their research to the field?
+- How do the authors establish the relevance of their research to the field?
 - What niche does this article define and how?
   Options are:
 
   - Making a counter-claim
   - Identifying a research gap
-  - Continuing the inquirty
+  - Continuing the inquiry
 - What are the objectives of the research?
 - Do the authors explain too much, too little, or just the right amount of the methodology?
 - How do the authors talk about the structure of the remaining article?
-- Brielfy glance at the [Conclusion](examples:article:conclusions) of the article.
+- Briefly glance at the [Conclusion](examples:article:conclusions) of the article.
   Does the introduction mention any of this information?
 
 ## Sharing

@@ -5,7 +5,7 @@
 
 ## Objective
 
-Critical thinking and analysis in a scientific concept can be challenging to grasp without extensive expertise.
+Critical thinking and analysis of a scientific concept can be challenging to grasp without extensive expertise.
 This activity primes students for critically analyzing a (sadly) fictitious study about desserts.
 
 ## Form groups
@@ -53,8 +53,8 @@ Use the following questions to guide your discussion.
 - How do the methods work?
 - Are the methods reliable?
 - Should the authors have used different techniques?
-- Are there any biases introduced from these methods?
-- Would you be able to reproduce these results?
+- Are there any biases introduced by these methods?
+- Could you reproduce these results?
 
 Keep in mind that you will share your analysis with the class.
 
@@ -62,8 +62,8 @@ Keep in mind that you will share your analysis with the class.
 
 **Duration:** 20 minutes
 
-To share your critical analysis with the class, please prepare a presentation using the assertion-evidence framework.
-The quality of the presentation does not matter&mdash;it is just so you can easily communicate your takeaway points and visual guides.
+Please prepare a presentation using the assertion-evidence framework to share your critical analysis with the class.
+The quality of the presentation does not matter&mdash;it is so that you can easily communicate your takeaway points and visual guides.
 There is no time requirement or limit for your presentation.
 
 ## Sharing with the class
