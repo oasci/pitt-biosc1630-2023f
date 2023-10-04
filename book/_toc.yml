@@ -72,6 +72,7 @@ parts:
           - file: classes/slides/slides-02
           - file: classes/slides/slides-03
           - file: classes/slides/slides-05
+          - file: classes/slides/slides-06
 
 
   - caption: Assignments
