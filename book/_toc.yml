@@ -141,7 +141,7 @@ parts:
     chapters:
       - file: admin/sorting_hat
       - file: admin/getting-to-class
-      - file: admin/drop-in-discussions
+      - file: admin/office-hours
       - file: admin/class-time
       # - file: admin/midterm-evals
 

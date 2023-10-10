@@ -1,8 +1,8 @@
-(drop-in-discussions)=
-# Drop-in discussions
+(office-hours)=
+# Office hours
 
 As your instructor, I am not only here to guide you through BIOSC 1630 but also to support your personal and professional growth.
-To facilitate this, I will be offering "drop-in discussions" where we can discuss a plethora of topics spanning from:
+To facilitate this, I will be offering "office hours" where we can discuss a plethora of topics spanning from:
 
 - questions, comments, or concerns about the course;
 - other classes;
@@ -22,7 +22,7 @@ We can then coordinate a convenient time to connect virtually or in person.
 
 ## Time
 
-Drop-in discussions will be on Thursdays from 11:00 AM - 12:00 PM.
+Office hours will be on Thursdays from 11:00 AM - 12:00 PM.
 
 ## Location
 
