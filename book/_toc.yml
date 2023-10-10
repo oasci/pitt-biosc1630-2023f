@@ -143,6 +143,7 @@ parts:
       - file: admin/getting-to-class
       - file: admin/drop-in-discussions
       - file: admin/class-time
+      # - file: admin/midterm-evals
 
   - caption: Easter egg
     chapters:
