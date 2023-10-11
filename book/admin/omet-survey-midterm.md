@@ -91,21 +91,21 @@ researchers use.
 
 ### I am comfortable speaking in this class
 
-| Strongly agree | Disagree | Neutral | Agree   | Strongly agree |
-| -------------- | -------- | ------- | ------- | -------------- |
-|      0 (0%)    |  0 (0%)  | 4 (36%) | 3 (27%) |     4 (36%)    |
+| Strongly disagree | Disagree | Neutral | Agree   | Strongly agree |
+| ----------------- | -------- | ------- | ------- | -------------- |
+|      0 (0%)       |  0 (0%)  | 4 (36%) | 3 (27%) |     4 (36%)    |
 
 ### This class stimulates my interest in the subject
 
-| Strongly agree | Disagree | Neutral | Agree   | Strongly agree |
-| -------------- | -------- | ------- | ------- | -------------- |
-|      0 (0%)    |  2 (18%) | 2 (18%) | 5 (45%) |     2 (18%)    |
+| Strongly disagree | Disagree | Neutral | Agree   | Strongly agree |
+| ----------------- | -------- | ------- | ------- | -------------- |
+|      0 (0%)       |  2 (18%) | 2 (18%) | 5 (45%) |     2 (18%)    |
 
 ### The instructor treats students with respect
 
-| Strongly agree | Disagree | Neutral | Agree   | Strongly agree |
-| -------------- | -------- | ------- | ------- | -------------- |
-|      0 (0%)    |  0 (0%)  | 0 (0%)  | 0 (0%)  |    11 (100%)   |
+| Strongly disagree | Disagree | Neutral | Agree   | Strongly agree |
+| ----------------- | -------- | ------- | ------- | -------------- |
+|      0 (0%)       |  0 (0%)  | 0 (0%)  | 0 (0%)  |    11 (100%)   |
 
 ### Which class activities, assignments, and/or resources are working well for you in this class?
 
