@@ -1,9 +1,12 @@
 (midterm-evals)=
-# Midterm evaluations
+# Midterm OMET evaluations
 
 The following passages are unmodified student responses (13 out of 21) to a Midterm Course Survey administered by [OMET](https://teaching.pitt.edu/omet/).
+A [instructor reflection](instructor-reflection) is provided below.
 
-## What is helping you to learn in this class?
+## Survey
+
+### What is helping you to learn in this class?
 
 - The different activities.
 - I think working with certain articles in portions is definitely beneficial for this class.
@@ -11,23 +14,27 @@ The following passages are unmodified student responses (13 out of 21) to a Midt
   I think it’s been really helpful to see what we’re doing each week ahead of time.
 - Alex is very good at explaining things in a way that actually makes sense.
 - The discussion style and lots of group work make the class enjoyable to learn.
-- I enjoy hearing the perspective of a recent phd student and hearing about actual research.
+- I enjoy hearing the perspective of a recent PhD student and hearing about actual research.
 - I think the group activities that we do every class are very helpful.
-- I like the activities. it's a long class so for normal lecture–style things its hard not to zone out.
-- Class activities! Also, the presentations are extremely informative and we are given a bunch of helpful resources!
+- I like the activities.
+  It's a long class so for normal lecture–style things its hard not to zone out.
+- Class activities!
+  Also, the presentations are extremely informative and we are given a bunch of helpful resources!
 - I think that focusing on discussing a part of the research paper in each class helped my understanding and learning.
   As well as being able to hear different perspectives from other classmates helped me to think more.
 - The teacher's willingness to meet with me and have personal discussions about the class materials and activities
-- The lectures are helping a lot. I like that we are doing activities in order to better understand scientific literature.
+- The lectures are helping a lot.
+  I like that we are doing activities in order to better understand scientific literature.
 
-## What is making learning difficult? (structure of class)
+### What is making learning difficult? (structure of class)
 
-- sometimes having to present in class for activities.
+- Sometimes having to present in class for activities.
 - I think the massive presentation and writing assignments are daunting, but I know that's just how the structure of the class is required to be.
 - I think just the disconnect between each week because there’s so much time in between classes.
   It feels like I sometimes put this class on the back burner just because I have so many other assignments.
 - Some of the papers have just been difficult to understand, especially if we don't have a lot of time to understand it and ask questions.
-- It is too long. 2.5 hours is too long to stay focused and making meaningful connections.
+- It is too long.
+  2.5 hours is too long to stay focused and making meaningful connections.
 - Sometimes the activities feel a bit redundant.
   I feel as though at some times too much time is given for discussions but at others too little.
 - I'm not sure what to do with assignments or even the activities. I don't know what you are looking for.
@@ -35,34 +42,41 @@ The following passages are unmodified student responses (13 out of 21) to a Midt
 - The timing of the class is really long unfortunate, it's a very long class structure and sometimes it becomes difficult to stay focused.
 - I think that although reading research papers is great, I didn't make it my hobby because of my previous classes or my free time.
 So at the beginning of the semester, reading and understanding a different research paper each week was something I found difficult
-- The structure if the class works fine for my learning style
+- The structure if the class works fine for my learning style.
 - Nothing in particular is making learning difficult in class.
 
-## What changes could be made to help you learn?
+### What changes could be made to help you learn?
 
-- no changes needed
-- I like the class format that we have
-- Honestly not sure
+- No changes needed.
+- I like the class format that we have.
+- Honestly not sure.
 - It could be fun to have a story time where you read a paper with us and walk through what you look for and how you go about it.
-- I dont take much away from the inclass presentations, they are a bit stressful without much benefit
+- I don't take much away from the in-class presentations, they are a bit stressful without much benefit
 - Examples would be nice.
 - Perhaps taking 2 breaks (a 5min one and a 10min one) instead of just one
 - I think using Perusall is very useful and allows me to see some helpful explanations very quickly
 - Maybe incorporating some journal club discussions instead of always doing the in class activities.
   I take really long to digest scientific literature so sometimes the activities are a little fast paced for me.
+- N/A
 - Possibly looking at papers that are reviewing or critiquing another paper so we can get a better understanding of how to write our final paper and what to include in it.
 
-## What do you still find confusing or unclear? (content of material)
+### What do you still find confusing or unclear? (content of material)
 
+- Nothing.
+- N/A
 - I’m still not 100% how our paper review presentations are going to go.
+- N/A
+- Unsure.
 - Reading these papers feels like I have never learned anything ever, but that's just how that goes with these.
 - Creating GOOD presentations! I feel like it's so important, but I'm still not fully able to do it.
 - At the moment I don't have any confusion about the whole course, but may have doubts about the review paper later on
+- Nothing in particular.
 - Some of the procedures that are used in the papers are hard to follow along with, but it's easy to research these unclear points outside of class.
 
-## What steps could you take to improve your own learning in this course?
+### What steps could you take to improve your own learning in this course?
 
 - Be more proactive about reading papers before class.
+- N/A
 - Putting in more time outside of class to prepare.
 - Read more thoroughly.
 - I could take more time for reading the articles.
@@ -75,27 +89,27 @@ So at the beginning of the semester, reading and understanding a different resea
 - I think reading more papers outside of class would be beneficial to better understand comp bio jargon and the methods that
 researchers use.
 
-## I am comfortable speaking in this class
+### I am comfortable speaking in this class
 
 | Strongly agree | Disagree | Neutral | Agree   | Strongly agree |
 | -------------- | -------- | ------- | ------- | -------------- |
 |      0 (0%)    |  0 (0%)  | 4 (36%) | 3 (27%) |     4 (36%)    |
 
-## This class stimulates my interest in the subject
+### This class stimulates my interest in the subject
 
 | Strongly agree | Disagree | Neutral | Agree   | Strongly agree |
 | -------------- | -------- | ------- | ------- | -------------- |
 |      0 (0%)    |  2 (18%) | 2 (18%) | 5 (45%) |     2 (18%)    |
 
-## The instructor treats students with respect
+### The instructor treats students with respect
 
 | Strongly agree | Disagree | Neutral | Agree   | Strongly agree |
 | -------------- | -------- | ------- | ------- | -------------- |
 |      0 (0%)    |  0 (0%)  | 0 (0%)  | 0 (0%)  |    11 (100%)   |
 
-## Which class activities, assignments, and/or resources are working well for you in this class?
+### Which class activities, assignments, and/or resources are working well for you in this class?
 
-- group activities where we break down different papers and studies.
+- Group activities where we break down different papers and studies.
 - I think the smaller assignments leading up to the larger one is helpful.
 - Group activities.
 - The mini presentations are helpful in building my presenting skills.
@@ -107,16 +121,75 @@ researchers use.
 - I like the in class activities where we breakdown sections of the paper.
 - All the activities that involve analyzing research papers have been working well.
 
-## Is there anything else you would like the instructor to know?
+### Is there anything else you would like the instructor to know?
 
-- no
+- No.
 - I really like the more informal discussions that we have in this class; it really creates a low stress environment where students are comfortable sharing.
-- Nope :)
-- Thank you for taking the time to incorporate our suggestions
-- i like the ducks
+- Nope :).
+- Thank you for taking the time to incorporate our suggestions.
+- I like the ducks.
 - I think that Alex is doing a great job, and all the efforts are so greatly appreciated.
   This class is not the easiest to teach, but it is going SO well.
   Thank you so much for all your hard–work and dedication to making this class a valuable learning experience.
-- you are great
-- Alex is a great professor, he creates a good classroom environment conducive to learning
+- You are great.
+- Alex is a great professor, he creates a good classroom environment conducive to learning.
 - This class has been very interesting so far and I really like the way it is being taught!
+
+(instructor-reflection)=
+## Instructor reflection
+
+I greatly appreciate the time you all took to provide me with feedback about the progress of the course so far.
+There are a few common themes I see.
+
+**Class is long.**
+I agree that having a two-and-a-half hour class time can be extremely draining.
+When planning this course, I knew I wanted some breaks for you (and me).
+I have been giving one ten-minute break around 2:00 pm; however, I am getting a sense that having smaller, more frequent breaks may be more beneficial.
+
+Each class moving forward will mainly be student presentations, and I already planned on five minute breaks after each presentation.
+When I teach this course next, I will consider alternative break schedules.
+
+**Activities are helpful, but could be improved.**
+This is great to hear!
+These activities take a long time to plan, so I am glad you find them helpful.
+(Some credit goes to ChatGPT for the brainstorming phase.)
+
+There were some comments about the activities feeling redundant, having unclear motivation, and sometimes too fast paced.
+In my experience, learning to read&mdash;especially critically&mdash;really only comes with practicing many, many, many times.
+I know that sounds cliché, but it is how I, and many of my graduate-school peers, learned as well.
+Thus, many of the activities are intentionally similar *with a twist*.
+
+I initially had `Objective` statements to my activities and assignments, but felt they were only really useful to me after a couple weeks.
+Knowing this feedback, I will try to be more clear about why we are doing each activity.
+
+**Mixed feelings about mini presentations.**
+TODO
+
+**Unclear expectations.**
+TODO
+
+**Too many papers too quickly.**
+TODO
+
+**Papers are dense.**
+TODO
+
+**Mixed feelings about group work every class.**
+TODO
+
+**Anxious about having big assignments.**
+TODO
+
+**How do you find papers this easy?**
+That's the secret: I don't :).
+This was one of my major concerns when planning for this course and why I made [this page on journals relevant to computational biology](journals-list).
+Usually I will pick a journal, go to browse, pick a recent year (usually after 2020), and start scrolling.
+
+Sometimes I have a specific topic or style in mind and will specifically search for them.
+For example, there will likely be an activity on papers that were retracted; thus, I went to the [Retraction Watch Database](http://retractiondatabase.org/RetractionSearch.aspx) for those papers.
+
+**Imposter syndrome.**
+TODO
+
+**Reading the articles beforehand would help, but is not a priority over other classes.**
+TODO

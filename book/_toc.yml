@@ -143,7 +143,7 @@ parts:
       - file: admin/getting-to-class
       - file: admin/office-hours
       - file: admin/class-time
-      # - file: admin/midterm-evals
+      - file: admin/omet-survey-midterm
 
   - caption: Easter egg
     chapters:
