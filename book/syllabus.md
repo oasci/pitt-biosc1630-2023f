@@ -364,9 +364,9 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - ~~October 4~~
   - ~~[Critical analysis of methods](class:06)~~
   -
-* - 7
-  - October 11
-  - [Critical analysis of results](class:07)
+* - ~~7~~
+  - ~~October 11~~
+  - ~~[Critical analysis of results](class:07)~~
   -
 * - 8
   - October 18
@@ -390,11 +390,11 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   -
 * - 13
   - November 22
-  - [Reproducibility](class:13)
+  - **No class**
   -
 * - 14
   - November 29
-  - [Expert panel](class:14)
+  - [Student presentations](class:14)
   - [Paper final draft](paper:final-draft)
 * - 15
   - December 6
