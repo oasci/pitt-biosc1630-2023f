@@ -119,12 +119,7 @@ In this assignment, you should include:
   - Insufficient (__ points)
   - Absent (0.0 points)
 - **Includes at least ten relevant topic sentences with a clear progression of ideas**
-  - Satisfactory (1.0  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
-  - Absent (0.0 points)
-- **At least one topic sentence is a critical analysis point**
-  - Satisfactory (0.25  points)
+  - Satisfactory (1.25  points)
   - Room for improvement (__  points)
   - Insufficient (__ points)
   - Absent (0.0 points)

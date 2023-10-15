@@ -43,7 +43,7 @@ The following categories also represent the recommended general flow of your pre
 ## Methods
 
 - **Method explanations**
-  - Satisfactory: (3.0  points):
+  - Satisfactory: (4.0  points):
     - The presentation effectively explains the computational methods used in the research, giving the audience a clear understanding of how computational biology techniques were applied.
   - Room for improvement (__  points):
     - The method explanations could be more detailed or structured to enhance audience comprehension of the computational aspects.
@@ -51,15 +51,6 @@ The following categories also represent the recommended general flow of your pre
     - The computational methods are poorly explained or inadequately detailed, making it hard for the audience to grasp how these techniques were applied in the research.
   - Absent (0.0 points):
     - The presentation fails to provide any information about the computational methods used.
-- **Limitations and biases**
-  - Satisfactory: (1.0  points):
-    - The presentation acknowledges and discusses the limitations and potential biases in computational biology research, demonstrating awareness of potential shortcomings.
-  - Room for improvement (__  points):
-    - The discussion of limitations and biases could be more specific to the computational aspects of the study for a better understanding of their impact.
-  - Insufficient (__ points):
-    - The presentation either does not address limitations and biases or does so inadequately in the context of computational biology.
-  - Absent (0.0 points):
-    - The presentation completely omits any discussion of limitations and biases related to computational biology.
 
 ## Results
 
