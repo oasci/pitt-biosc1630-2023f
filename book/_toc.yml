@@ -97,6 +97,8 @@ parts:
             title: Final draft
       - file: assignments/presentation/index
         sections:
+          - file: assignments/presentation/audiences
+            title: Know your audience
           - file: assignments/presentation/rubric
             title: Rubric
       - file: assignments/examples/index
