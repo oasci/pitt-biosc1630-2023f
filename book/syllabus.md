@@ -274,8 +274,7 @@ It encourages timely submissions while acknowledging the influence of external c
   No explanation or justification is needed.
 - However, using this extension (i.e., submitting up to two days after the deadline) will result in a deduction of your extra credit worth 25% of the assignment.
   For example, if you submit an assignment worth 10 points one day late, your extra credit will be reduced by 2.5 points.
-- Repeated late assignments would result in losing points off of your total grade.
-- If an assignment is submitted more than two days late, 25% of the assignment's value will be deducted after each 24 hours.
+- After this extension window, the assignment will not be accepted (i.e., zero points), but no extra credit would be lost.
 - Exceptions for the loss of extra credit will be made in a similar procedure as the [attendance](attendance) policy.
 
 Thus, I will not round up any final grades.
