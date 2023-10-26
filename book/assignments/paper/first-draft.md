@@ -30,13 +30,13 @@ Making a complete outline helps you:
 Your assignment will be evaluated based on the following criteria.
 Each criterion has four ratings:
 
-- **Satisfactory:**
+- **Satisfactory** (100%):
   This rating indicates that the work meets the acceptable standards.
-- **Room for improvement:**
+- **Room for improvement** (80%):
   The work would benefit from refinement, additional details, or improved execution.
-- **Insufficient:**
+- **Insufficient** (50%):
   The work does not meet the basic requirements and requires substantial revisions or corrections.
-- **Absent:**
+- **Absent** (0%):
   No evaluation of the work is possible (i.e., missing).
 
 ## Instructions
@@ -54,9 +54,9 @@ Use the [formatting guidelines](paper:format-guidelines) to structure your paper
 #### Rubric
 
 - **Paper follows all formatting guidelines**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 
 ### Title
@@ -68,9 +68,9 @@ You can change this later, so spend only a little time on this.
 #### Rubric
 
 - **A title is present**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 
 ### Introduction
@@ -87,18 +87,18 @@ Instead, find a review article that you can cite for general information or the 
 
 - **Introduction contains a well-written CARS move one**
   - Satisfactory (0.5 points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 - **Introduction contains a well-written CARS move two**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 - **Introduction contains a well-written CARS move three**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 
 ### Body
@@ -114,19 +114,19 @@ In this assignment, you should include:
 #### Rubric
 
 - **Body makes use of headings to guide the reader**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 - **Includes at least ten relevant topic sentences with a clear progression of ideas**
-  - Satisfactory (1.25  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (1.25 points)
+  - Room for improvement (1.0 points)
+  - Insufficient (0.63 points)
   - Absent (0.0 points)
 - **Literature citations**
-  - Satisfactory (0.25  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.25 points)
+  - Room for improvement (0.2 points)
+  - Insufficient (0.13 points)
   - Absent (0.0 points)
 
 ### References
@@ -137,9 +137,9 @@ You are required to use the [author–date citation system](https://apastyle.apa
 #### Rubric
 
 - **In-text citations and references are used and formatted appropriately**
-  - Satisfactory (0.25  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.25 points)
+  - Room for improvement (0.2 points)
+  - Insufficient (0.13 points)
   - Absent (0.0 points)
 
 ### Figures and table
@@ -150,14 +150,14 @@ You must include the original caption and your caption tailored to the points yo
 #### Rubric
 
 - **At least one figure or table is at the end of the review with the original caption**
-  - Satisfactory (0.25  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.25 points)
+  - Room for improvement (0.2 points)
+  - Insufficient (0.13 points)
   - Absent (0.0 points)
 - **New figure and table caption(s) are tailored to the review**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 
 ### Style
@@ -167,19 +167,19 @@ Minimal points will be given here, but this will give you an idea of the final d
 #### Rubric
 
 - **Writing reflects consideration of reader expectations (grammar, spelling, sentence structure)**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 - **Writing is logical with a clear line of thought**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 - **No jargon, undefined abbreviations, or other language that impedes understanding**
-  - Satisfactory (0.5  points)
-  - Room for improvement (__  points)
-  - Insufficient (__ points)
+  - Satisfactory (0.5 points)
+  - Room for improvement (0.4 points)
+  - Insufficient (0.25 points)
   - Absent (0.0 points)
 
 ## Submission
