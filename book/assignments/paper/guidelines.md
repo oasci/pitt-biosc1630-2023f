@@ -98,3 +98,4 @@ This is a work in progress.
   Use this to guide if your statement is too broad.
 - When listing items with `(1)`, `(a)`, etc. make sure to add a `,` or `;`.
   For example, there is something to (a) show, (b) tell, (c) and see.
+- The [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma) is strongly recommended.
