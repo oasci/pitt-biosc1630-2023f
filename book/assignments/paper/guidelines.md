@@ -84,6 +84,17 @@ While many things are subject to taste, there are still some suggested guideline
 This is a work in progress.
 ```
 
-- Avoid using "I" in your writing whenever possible.
-  There is almost always a better way to write the sentence without "I", "we", "us", "you", etc.
-  However, if you must use one of them, "we" is preferred.
+- Avoid using `I` in your writing whenever possible.
+  There is almost always a better way to write the sentence without `I`, `we`, `us`, `you`, etc.
+  However, if you must use one of them, `we` is preferred.
+- Citations should always go before the period (i.e., left) instead of after.
+  In-text citations are treated as part of the sentence.
+  When writing for a scientific journal, you follow whatever their guidelines state.
+- For every sentence, ask yourself how a grumpy old scientist would respond.
+
+  > Computational biology is revolutionizing our understanding of the world around us.
+
+  A grumpy scientist could think, "Oh, good, like I didn't already know this and read five papers with this same introduction."
+  Use this to guide if your statement is too broad.
+- When listing items with `(1)`, `(a)`, etc. make sure to add a `,` or `;`.
+  For example, there is something to (a) show, (b) tell, (c) and see.
