@@ -1,5 +1,5 @@
-(paper:format-guidelines)=
-# Paper format guidelines
+(paper:guidelines)=
+# Paper guidelines
 
 ## Typesetting
 
@@ -16,14 +16,16 @@ A [Google Docs](https://docs.google.com) template will be shared with you with a
   Subheadings should be 12 pt, bolded, and aligned to the left margin.
 - **Consistency:** Maintain consistency in font usage, heading styles, spacing, and formatting throughout the document.
 
-## Cover Page
+## Contents
+
+### Cover Page
 
 - The title page should present the review’s title, your name, course title, version (`Draft 1`,
 `Draft 2`, `Final Paper`), and the date of the paper.
 - The title page is not numbered but is considered to be page 1 of the entire document;
 however, it does not count towards the 7--9 page text requirement.
 
-## Introduction
+### Introduction
 
 - The introduction of your paper begins on page 2 of the document.
   (However, the page number should show `1`.)
@@ -33,7 +35,7 @@ however, it does not count towards the 7--9 page text requirement.
 - Length of introduction should be 1--2 pages.
 
 (paper:format:body)=
-## Body
+### Body
 
 - This section should be split into sections starting with a heading.
 - Body should follow directly the last paragraph of your introduction rather than start a
@@ -43,7 +45,7 @@ new page.
 - Include unifying themes or overarching results, weaknesses, gaps, or inconsistencies so
 that you are not simply summarizing papers.
 
-## Conclusions
+### Conclusions
 
 - This section should be preceded by a heading (`Conclusions`).
 - Conclusions should immediately follow your last paragraph of the body rather than start a
@@ -53,13 +55,14 @@ new page.
 - Suggest future directions of the research.
 - Length of conclusions should be 0.5--1 page.
 
-## References
+### References
 
 - Place your references starting on a new page after the conclusions with a `References` heading.
 - Use the [author–date citation system](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date) in the [APA style](https://apastyle.apa.org/style-grammar-guidelines/references).
+- References should be sorted alphabetically and not numbered.
 - Pages do not count towards the 7--9 page text requirement.
 
-## Tables and Figures
+### Tables and Figures
 
 - A sample figure is included at the end of the template.
 - Only have one table or figure per page.
@@ -71,3 +74,16 @@ sequentially numbered.
 - You do not necessarily have to include the entire table or figure (e.g., you might show Panel A of the original figure).
 - Write your own figure legend, placing it outside of the box.
 - Make sure to cite the reference in the caption.
+
+## Style
+
+Everyone has their own preferred style of writing.
+While many things are subject to taste, there are still some suggested guidelines one should follow when possible.
+
+```{note}
+This is a work in progress.
+```
+
+- Avoid using "I" in your writing whenever possible.
+  There is almost always a better way to write the sentence without "I", "we", "us", "you", etc.
+  However, if you must use one of them, "we" is preferred.

@@ -12,5 +12,5 @@ The review will include
 
 ## Contents
 
-- [Format guidelines](paper:format-guidelines)
+- [Format guidelines](paper:guidelines)
 - [First draft](paper:first-draft)

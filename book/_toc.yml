@@ -87,8 +87,8 @@ parts:
             title: Assignment 02
       - file: assignments/paper/index
         sections:
-          - file: assignments/paper/format-guidelines
-            title: Format guidelines
+          - file: assignments/paper/guidelines
+            title: Guidelines
           - file: assignments/paper/first-draft
             title: First draft
           - file: assignments/paper/second-draft

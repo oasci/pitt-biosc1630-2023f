@@ -49,7 +49,7 @@ In later assignments, you can restructure and polish them in the writing and edi
 
 ### Formatting
 
-Use the [formatting guidelines](paper:format-guidelines) to structure your paper.
+Use the [formatting guidelines](paper:guidelines) to structure your paper.
 
 #### Rubric
 
