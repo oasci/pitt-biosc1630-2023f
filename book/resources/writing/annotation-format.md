@@ -10,3 +10,5 @@ We will use the following annotation categories for writing critique and feedbac
     Constructive criticism and suggestions for improvement.
 - <span style="background-color: #80d0ff; font-weight: bold;">Style:</span>
     Comments on the stylistic elements of the writing, including choice of words, sentence structure, and overall tone.
+- <span style="background-color: #ffc0f2; font-weight: bold;">Copying:</span>
+    Text is heavily quoted from another source.
