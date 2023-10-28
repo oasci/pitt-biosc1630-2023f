@@ -101,3 +101,19 @@ This is a work in progress.
 - When listing items with `(1)`, `(a)`, etc. make sure to add a `,` or `;`.
   For example, there is something to (a) show, (b) tell, (c) and see.
 - The [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma) is strongly recommended.
+- Avoid absolute or general statements like "best", "worst", "wrong", "only", etc. when someone could make an argument about some other approach being superior.
+  For example, instead of
+
+  > We chose to use the ff19SB force field because it is the best for our system.
+
+  You can say,
+
+  > Our MD simulations employed the ff19SB force field because previous publications [8, 9] have demonstrated its high performance for similar proteins.
+
+  Instead of saying,
+
+  > Molecular dynamics is the best method.
+
+  you can say,
+
+  > Molecular dynamics has shown promising results in similar studies.

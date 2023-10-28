@@ -367,13 +367,13 @@ If you submit every assignment on time, the extra credit is worth 5% of your tot
   - ~~October 11~~
   - ~~[Critical analysis of results](class:07)~~
   -
-* - 8
-  - October 18
-  - [Student presentations](class:08)
-  - [Paper first draft](paper:first-draft)
-* - 9
-  - October 25
-  - [Student presentations](class:09)
+* - ~~8~~
+  - ~~October 18~~
+  - ~~[Student presentations](class:08)~~
+  - ~~[Paper first draft](paper:first-draft)~~
+* - ~~9~~
+  - ~~October 25~~
+  - ~~[Student presentations](class:09)~~
   -
 * - 10
   - November 1
