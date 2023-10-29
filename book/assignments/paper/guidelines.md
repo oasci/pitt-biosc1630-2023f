@@ -117,3 +117,6 @@ This is a work in progress.
   you can say,
 
   > Molecular dynamics has shown promising results in similar studies.
+- It is important to have variety in your sentence structure and length.
+  For example, have some short sentences, some longer ones, use semicolons, em dashes, etc.
+  Variety makes it easier to read and maintain focus.
