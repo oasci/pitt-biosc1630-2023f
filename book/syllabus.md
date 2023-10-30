@@ -241,10 +241,10 @@ There are a total of 100 points possible for this class.
   - [First draft](paper:first-draft)
   - 7
 * -
-  - Second draft
+  - [Second draft](paper:second-draft)
   - 13
 * -
-  - Final draft
+  - [Final draft](paper:final-draft)
   - 20
 * -
   - **Total**
