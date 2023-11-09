@@ -129,3 +129,6 @@ This is a work in progress.
 - It is important to have variety in your sentence structure and length.
   For example, have some short sentences, some longer ones, use semicolons, em dashes, etc.
   Variety makes it easier to read and maintain focus.
+- Minimize the amount of jumping around the reader has to do to follow your paper.
+  For example, do not include a glossary at the end of your paper for technical terms.
+  Explain them concisely in your writing.
