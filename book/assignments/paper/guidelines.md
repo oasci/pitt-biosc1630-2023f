@@ -50,7 +50,8 @@ however, it does not count towards the 7--9 page text requirement.
 - Body should follow directly the last paragraph of your introduction rather than start a
 new page.
 - You may use subheadings if necessary.
-- You should present and discuss key data.
+- You should present and discuss key methods, data, and analysis.
+  No additional context/motivation of the research should be included at the beginning; that still belongs in the introduction.
 - Include unifying themes or overarching results, weaknesses, gaps, or inconsistencies so
 that you are not simply summarizing papers.
 
