@@ -89,6 +89,8 @@ sequentially numbered.
 
 ## Style
 
+Your paper should cater to the [intermediate audience](presentation:audience:intermediate).
+
 Everyone has their own preferred style of writing.
 While many things are subject to taste, there are still some suggested guidelines one should follow when possible.
 
