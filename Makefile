@@ -76,6 +76,7 @@ book:
 	set -e
 
 	export TZ="UTC"
+	rm -rf public
 
 	$(CONDA) jupyter-book clean ./book
 

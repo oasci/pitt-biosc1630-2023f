@@ -146,6 +146,7 @@ parts:
       - file: admin/office-hours
       - file: admin/class-time
       - file: admin/omet-survey-midterm
+      - file: admin/omet-survey
 
   - caption: Easter egg
     chapters:

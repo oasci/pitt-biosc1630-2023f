@@ -2,7 +2,6 @@
 # Midterm OMET evaluations
 
 The following passages are unmodified student responses (13 out of 21) to a Midterm Course Survey administered by [OMET](https://teaching.pitt.edu/omet/).
-A [instructor reflection](instructor-reflection) is provided below.
 
 ## Survey
 
@@ -134,62 +133,3 @@ researchers use.
 - You are great.
 - Alex is a great professor, he creates a good classroom environment conducive to learning.
 - This class has been very interesting so far and I really like the way it is being taught!
-
-(instructor-reflection)=
-## Instructor reflection
-
-I greatly appreciate the time you all took to provide me with feedback about the progress of the course so far.
-There are a few common themes I see.
-
-**Class is long.**
-I agree that having a two-and-a-half hour class time can be extremely draining.
-When planning this course, I knew I wanted some breaks for you (and me).
-I have been giving one ten-minute break around 2:00 pm; however, I am getting a sense that having smaller, more frequent breaks may be more beneficial.
-
-Each class moving forward will mainly be student presentations, and I already planned on five minute breaks after each presentation.
-When I teach this course next, I will consider alternative break schedules.
-
-**Activities are helpful, but could be improved.**
-This is great to hear!
-These activities take a long time to plan, so I am glad you find them helpful.
-(Some credit goes to ChatGPT for the brainstorming phase.)
-
-There were some comments about the activities feeling redundant, having unclear motivation, and sometimes too fast paced.
-In my experience, learning to read&mdash;especially critically&mdash;really only comes with practicing many, many, many times.
-I know that sounds cliché, but it is how I, and many of my graduate-school peers, learned as well.
-Thus, many of the activities are intentionally similar *with a twist*.
-
-I initially had `Objective` statements to my activities and assignments, but felt they were only really useful to me after a couple weeks.
-Knowing this feedback, I will try to be more clear about why we are doing each activity.
-
-**Mixed feelings about mini presentations.**
-TODO
-
-**Unclear expectations.**
-TODO
-
-**Too many papers too quickly.**
-TODO
-
-**Papers are dense.**
-TODO
-
-**Mixed feelings about group work every class.**
-TODO
-
-**Anxious about having big assignments.**
-TODO
-
-**How do you find papers this easy?**
-That's the secret: I don't :).
-This was one of my major concerns when planning for this course and why I made [this page on journals relevant to computational biology](journals-list).
-Usually I will pick a journal, go to browse, pick a recent year (usually after 2020), and start scrolling.
-
-Sometimes I have a specific topic or style in mind and will specifically search for them.
-For example, there will likely be an activity on papers that were retracted; thus, I went to the [Retraction Watch Database](http://retractiondatabase.org/RetractionSearch.aspx) for those papers.
-
-**Imposter syndrome.**
-TODO
-
-**Reading the articles beforehand would help, but is not a priority over other classes.**
-TODO
